@@ -8,12 +8,14 @@ from nltk.translate.bleu_score import sentence_bleu
 from rouge_score import rouge_scorer
 from sentence_transformers import SentenceTransformer, util
 import matplotlib.pyplot as plt
+from tqdm import tqdm
 
 # model_name = "bert-large-uncased"
-model_name = "bert-base-uncased"
+# model_name = "bert-base-uncased"
 # model_name = "roberta-base"
 # model_name = "distilbert-base-uncased"
 # model_name = "albert-base-v2"
+model_name = "distilbert-base-uncased-distilled-squad"
 
 output_dir = f"cohort_plots_new/{model_name}"
 os.makedirs(output_dir, exist_ok=True)
@@ -29,7 +31,7 @@ rouge = rouge_scorer.RougeScorer(["rougeL"], use_stemmer=True)
 
 bleu_scores, rouge_l_scores, sbert_scores = [], [], []
 
-for _, row in llama_df.iterrows():
+for _, row in tqdm(llama_df.iterrows(), total=llama_df.shape[0]):
     ref_distractors = [row[f"ref_distractor{i}"] for i in range(1, 4)]
     sys_distractors = [row[f"sys_distractor{i}"] for i in range(1, 4)]
 
@@ -79,7 +81,7 @@ def prepare_mc_input(question, choices):
 results = []
 num_samples = 5
 
-for _, row in llama_df.iterrows():
+for _, row in tqdm(llama_df.iterrows(), total=llama_df.shape[0]):
     question = row["question"]
     correct = row["correct_answer"]
 
