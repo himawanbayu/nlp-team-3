@@ -1,0 +1,501 @@
+question,correct_answer,options,correct_index,predicted_index,is_correct,confidence_scores,chosen_confidence,correct_confidence
+"Compounds that are capable of accepting electrons, such as o 2 or f2, are called what?",oxidants,"nitrogen,hydrogen,oxygen,oxidants",3,2,False,"0.2679,0.2498,0.2723,0.2100",0.27233502,0.2100266
+What term in biotechnology means a genetically exact copy of an organism?,clone,"clone,clone,clone,clone",2,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+Vertebrata are characterized by the presence of what?,backbone,"muscle,skin,bone,backbone",3,1,False,"0.2056,0.2795,0.2746,0.2404",0.2795104,0.24036309
+What is the height above or below sea level called?,elevation,"high tide,low tide,elevation,mean tide",2,2,True,"0.2442,0.2429,0.2682,0.2447",0.26819465,0.26819465
+"Ice cores, varves and what else indicate the environmental conditions at the time of their creation?",tree rings,"tree rings,tree rings,tree rings,tree rings",3,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+What chemical signals in plants control different processes?,plant hormones,"growth hormones,hormones hormones,hormones,plant hormones",3,2,False,"0.2524,0.2512,0.2532,0.2432",0.25320333,0.24321142
+"Meiosis is part of the process of gametogenesis, which is the production of what?",sperm and eggs,"gametes,ovules,sperm and eggs,spores",2,1,False,"0.2363,0.2633,0.2426,0.2577",0.26329923,0.242649
+Which type of tree is dominant in temperate forests?,deciduous,"deciduous,coniferous,deciduous,evergreen",2,1,False,"0.2393,0.2676,0.2393,0.2538",0.26761726,0.23926847
+What kind of viscosity is found in long-chain hydrocarbons?,highly viscous,"highly viscous,low viscosity,low viscosity,low viscosity",0,1,False,"0.2384,0.2539,0.2539,0.2539",0.25387114,0.2383866
+Ionic compounds have strong electrostatic attractions between oppositely charged ions in this?,regular array,"random array,random array,regular array,polar array",2,2,True,"0.2447,0.2447,0.2861,0.2246",0.2861147,0.2861147
+About how tall can mid-ocean ridges be?,about 2 km,"3 km,1 km,5 km,about 2 km",3,3,True,"0.2456,0.2471,0.2435,0.2638",0.26383358,0.26383358
+What are by far the most common type of invertebrate?,insects,"worms,spiders,ants,insects",3,3,True,"0.2248,0.2280,0.2399,0.3074",0.30739906,0.30739906
+What do waves deposit to form sandbars and barrier islands?,sediments,"sedimentation,diment,sediments,sedimentation",2,1,False,"0.2454,0.2608,0.2483,0.2454",0.26078275,0.24833234
+"Penis, testes, and epididymis are organs in what system?",male reproductive system,"heart,brain,female reproductive system,male reproductive system",3,1,False,"0.2604,0.3000,0.2209,0.2187",0.3000123,0.21874015
+"Only about one percent of plants have lost what ability, turning them into consumers and even predators, instead of producers?",photosynthesis,"photosynthesis,photosynthesis,photosynthesis,photosynthesis",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+How does a neon light produce visible light?,electroluminescence,"oxygen,electroluminescence,helium,hydrogen",1,0,False,"0.2891,0.1899,0.2738,0.2471",0.28910127,0.18994622
+The bird ancestor that lived in trees developed what feature commonly associated with birds?,wings,"legs,scales,feathers,wings",3,0,False,"0.2852,0.2277,0.2719,0.2152",0.285192,0.21523428
+What do most living things use to make atp from glucose?,oxygen,"oxygen,nitrogen,oxygen,carbon",2,1,False,"0.2446,0.2912,0.2446,0.2195",0.29124418,0.24464549
+What are the two most common silicates?,feldspar and quartz,"granite and limestone,limestone,granite,feldspar and quartz",3,2,False,"0.2736,0.2538,0.2812,0.1914",0.2812168,0.19141912
+What term means the amount of water vapor in the air?,humidity,"humidity,low humidity,high humidity,low pressure",0,3,False,"0.2349,0.2314,0.2307,0.3030",0.30302948,0.23490936
+Paracrine signals move by what method through the extracellular matrix?,diffusion,"diffusion,diffusion,diffusion,diffusion",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+"Presence of a cell wall, large central vacuole, and organelles called plastids distinguish what type of cell?",plant,"plant,mitochondria,pollen,spore",0,3,False,"0.2658,0.2355,0.2242,0.2746",0.27458918,0.26575693
+What happens when mammals raise their hair with tiny muscles in the skin?,goosebumps,"hair,blood,skin,goosebumps",3,2,False,"0.2537,0.2613,0.2721,0.2129",0.27213398,0.21294239
+What are people with osteoporosis at increased risk of?,bone fractures,"diabetes,heart attack,bone fractures,cancer",2,1,False,"0.2537,0.2781,0.2290,0.2391",0.27813068,0.22899105
+Where is energy stored in a chemical substance?,between atoms,"atoms,between atoms,electrons,molecules",1,3,False,"0.2476,0.2271,0.2398,0.2854",0.28542304,0.22714855
+"By the year 2050, 25 percent of the population of the united states will be 60 years of age or older. the cdc estimates that 80 percent of those 60 years and older have one or more chronic disease associated with deficiencies of this?",immune system,"age,heart,immune system,brain",2,3,False,"0.2242,0.2334,0.2545,0.2879",0.2878639,0.25451738
+"Upon death of an organism, during composition, what returns to the soil as ammonium ions?",nitrogen,"carbon,oxygen,nitrogen,nitrogen",3,1,False,"0.2648,0.2838,0.2257,0.2257",0.28382978,0.22567883
+Most insects reproduce quickly and through what type of reproduction?,sexual reproduction,"vulation,spore reproduction,sexual reproduction,asexual reproduction",2,1,False,"0.2390,0.3032,0.2406,0.2172",0.30320537,0.24061552
+Digestion of proteins begins with acids in what organ?,stomach,"enzymes,amino acids,stomach,hormones",2,3,False,"0.2120,0.2211,0.2769,0.2901",0.29008937,0.27687925
+"Many species of rotifers exhibit haplodiploidy, which is a method of what?",gender determination,"gender determination,heterozygous,heteromorphic,heterophytic",0,3,False,"0.2398,0.2564,0.2449,0.2589",0.2589343,0.2397824
+What is the most abundant metal of the earth's crust?,aluminum,"copper,aluminum,silver,iron",1,2,False,"0.2561,0.2212,0.2886,0.2341",0.2885833,0.22123636
+What is the term for the total kinetic energy of moving particles of matter?,thermal energy,"thermal energy,thermal resistance,thermal energy,kinetic energy",0,1,False,"0.2433,0.2703,0.2433,0.2431",0.27027425,0.24331935
+What part of the eye allows light to enter?,pupil,"pupil,pupil,cornea,lens",0,3,False,"0.2352,0.2352,0.2072,0.3223",0.3222879,0.23524189
+"The body cannot sustain for very long the bursts of energy mediated by epinephrine and norepinephrine, hormones associated with what stress response?",fight-or-flight,"stress,stress,fight-or-flight,fatigue",2,0,False,"0.2635,0.2635,0.2419,0.2312",0.26345664,0.24189517
+"What system enters the brain stem and influences activity in the cerebellum, spinal cord, and cerebral cortex?",vestibular system,"visual cortex,auditory cortex,vestibular system,olfactory cortex",2,0,False,"0.2628,0.2552,0.2430,0.2391",0.2627812,0.24297953
+In what type of animals may a body cavity be present or absent?,triploblastic,"monogamous,monotonous,monolithic,triploblastic",3,3,True,"0.2300,0.2513,0.2560,0.2627",0.26268795,0.26268795
+Chemical reactions involve a transfer of heat energy. measured in what?,joules,"kilowatt-hours,joules,kilo,kilo-hours",1,0,False,"0.2926,0.1827,0.2781,0.2466",0.29262492,0.18271549
+Trees and shrubs are example of what type of plant?,perennials,"perennials,coniferous,carnivorous,deciduous",0,3,False,"0.2449,0.2553,0.2408,0.2590",0.2589991,0.24490316
+"The products of what process are needed for cellular respiration, and vice versa?",photosynthesis,"oxygen,photosynthesis,carbon dioxide,nitrogen",1,2,False,"0.2174,0.2095,0.2968,0.2763",0.2968108,0.20950003
+Most fungi get organic compounds from what?,dead organisms,"air,organic compounds,water,dead organisms",3,3,True,"0.2504,0.2438,0.2478,0.2580",0.25803572,0.25803572
+How do very massive stars end their lives?,become red supergiants,"helium,helium,become red supergiants,helium",2,0,False,"0.2713,0.2713,0.1860,0.2713",0.27133074,0.18600781
+Pairs of nitrogenous bases are attached to each other by?,hydrogen bonds,"hydrogen bonds,hydrogen bonds,hydrogen bonds,hydrogen bonds",2,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+Rupture can cause fragments of what to travel via the bloodstream and become lodged in other arteries?,plaque,"bone',heart',brain',plaque",3,0,False,"0.2530,0.2505,0.2492,0.2474",0.25297365,0.24737935
+The strength of a base depends on the concentration of _______ it produces when dissolved in water?,hydroxide ions,"nitrogen ions,hydroxide ions,oxygen ions,hydrogen ions",1,0,False,"0.2605,0.2266,0.2536,0.2593",0.26046652,0.22664341
+The overall voltage of the battery is therefore the sum of ________ of the individual cells.,voltages,"negative,voltages,negative,positive",1,3,False,"0.2546,0.2236,0.2546,0.2672",0.26720667,0.22358635
+Organisms that live deep in the ocean must be able to withstand what?,extreme water pressure,"high temperature,extreme water pressure,high pressure and high temperature,high pressure",1,0,False,"0.2873,0.2109,0.2669,0.2349",0.28731975,0.21087584
+Which system are the brain and spinal cord apart of?,central nervous system,"respiratory system,nervous system,circulatory system,central nervous system",3,0,False,"0.2995,0.2321,0.2651,0.2033",0.29947817,0.20329896
+What are biochemical catalysts that speed up biochemical reactions?,enzymes,"enzymes,hormones,enzymes,proteins",2,3,False,"0.2245,0.2456,0.2245,0.3054",0.30539477,0.22448535
+What process can cause harmful alleles to become fixed?,genetic drift,"mutation,genetic drift,mutation,mutation",1,0,False,"0.2502,0.2494,0.2502,0.2502",0.2502034,0.24938986
+What record shows that dinosaurs originated 200-250 million years ago?,fossil record,"fossil record,fossilized,fossilized fossil,fossil record",3,0,False,"0.2599,0.2361,0.2441,0.2599",0.25987923,0.25987923
+"What instrument is used to make very sensitive mass measurements in a laboratory, usually in grams?",analytical balance,"magnetic balance,ultrasonic balance,thermal balance,analytical balance",3,1,False,"0.2534,0.2550,0.2522,0.2394",0.25496855,0.23944819
+What is the purpose of bright colors on a flower's petals?,to attract pollinators,"attract,reproduction,pollination,to attract pollinators",3,1,False,"0.2062,0.3187,0.2431,0.2319",0.3187078,0.23194705
+Collateral ganglia controls organs in which cavity in the body?,abdominal,"abdominal,pelvic,thoracic,abdominal",0,1,False,"0.2436,0.2604,0.2524,0.2436",0.2604357,0.2435769
+A bee will sometimes do a dance to tell other bees in the hive where to find what?,food,"food,pollen,water,honey",0,1,False,"0.2504,0.2704,0.2233,0.2559",0.2704231,0.25039646
+"The lens focuses light on the retina , which covers the back of the inside of the eye. the retina has light-sensing photoreceptor cells called?",rods and cones,"cones and cones,rods and cones,cones and cones,ones",1,3,False,"0.2412,0.2375,0.2412,0.2800",0.28001812,0.23752451
+"Temperature, water, soil, and air are examples of nonliving factors of an ecosystem, also termed what?",abiotic factors,"abiotic factors,soil,otosynthesis,water",0,3,False,"0.2071,0.2471,0.2726,0.2731",0.2730999,0.20713413
+Ibuprofen and albuterol are examples of drugs whose _________ have different effects.,enantiomers,"enantiomers,antihistamine,antacid,antifreeze",0,0,True,"0.2673,0.2405,0.2449,0.2473",0.26731652,0.26731652
+"Although magma once filled our moon's craters, what is thought to have ended there over a billion years ago?",volcanic activity,"volcanic activity,volcanic eruption,volcanic formation,volcanic activity",3,2,False,"0.2382,0.2506,0.2730,0.2382",0.27295753,0.23821306
+Sensory nerves carry nerve impulses from sensory receptors to what system?,central nervous,"peripheral,peripheral nervous,nervous,central nervous",3,2,False,"0.2292,0.2610,0.2918,0.2180",0.29180473,0.21795866
+Which kind of muscle regulates air flow in lungs?,smooth,"muscle fibers,smooth,muscle,smooth",1,1,True,"0.2370,0.2639,0.2352,0.2639",0.26390693,0.26390693
+What type of bonds are formed by the side-to-side overlap of p orbitals?,pi bonds,"alpha bonds,alpha bonds,pi bonds,pi bonds",3,0,False,"0.2577,0.2577,0.2423,0.2423",0.25771755,0.24228247
+On what day of the cycle does ovulation usually occur?,14th,"17th,16th,14th,15th",2,2,True,"0.2441,0.2463,0.2630,0.2466",0.26297605,0.26297605
+"The majority of animals belong to what category, characterized by the lack of a backbone?",invertebrate,"vertebrate,reptile,invertebrate,mammal",2,3,False,"0.2443,0.2182,0.2487,0.2888",0.28875685,0.24873321
+What is another name for the vertebral column?,backbone,"backbone,vertebrae,vertebrae,vertebrae",0,1,False,"0.2295,0.2568,0.2568,0.2568",0.25684252,0.22947247
+The temperature at which a substance melts is called its what point?,melting,"freezing,melting,boiling,freezing",1,0,False,"0.2660,0.2019,0.2660,0.2660",0.26603684,0.20193437
+"Oogenesis, which is gametogenesis in females, begins with what type of ste cells?",ovarian,"follicular,follicular,ovarian,follicular",2,0,False,"0.2616,0.2616,0.2153,0.2616",0.2615586,0.21532421
+Humans are among the most versatile of mammals with what type of diet?,omnivore,"carnivore,herbivore,omnivore,omnivore",2,0,False,"0.2539,0.2510,0.2476,0.2476",0.253879,0.24756925
+Solute potential is also called osmotic potential because solutes affect the direction of what?,osmosis,"negative pressure,negative pressure,negative temperature,osmosis",3,0,False,"0.2583,0.2583,0.2563,0.2272",0.25826553,0.22720353
+"Newton’s second law of what is more than a definition; it is a relationship among acceleration, force, and mass?",motion,"motion,momentum,city,gravity",0,3,False,"0.2446,0.2321,0.2559,0.2674",0.2674483,0.24456821
+What is the physical transformation of an insect moving through stages of life?,metamorphosis,"etamorphosis,metamorphosis,metamorphosis,metamorphosis",1,0,False,"0.2596,0.2468,0.2468,0.2468",0.25962657,0.24679115
+"When equal amounts of a strong acid such as hydrochloric acid are mixed with a strong base such as sodium hydroxide, the result is what kind of solution?",a neutral one,"acidic,acidic,acidic,a neutral one",3,0,False,"0.2554,0.2554,0.2554,0.2337",0.25543982,0.2336805
+What are fast moving rivers of air that are going in opposite directions called?,jet streams,"wind streams,atmospheric currents,jet streams,ocean currents",2,3,False,"0.2404,0.2563,0.2296,0.2737",0.27367646,0.22964227
+"Nephrons, renal tubules and the loop of henle are part of the process of blood filtration by what organs?",kidneys,"lungs,liver,kidneys,heart",2,0,False,"0.2891,0.2882,0.2154,0.2073",0.2891496,0.21535137
+"Fungi, such as black bread mold (rhizopus nigricans), have haploid-dominant what?",life cycles,"seeds,life cycles,pollen,spores",1,3,False,"0.2287,0.2675,0.2183,0.2855",0.28553683,0.2674792
+The electrode at which oxidation occurs is called?,the anode,"negative charge,the anode,negative electrode,negative ion",1,0,False,"0.2686,0.2361,0.2420,0.2532",0.26862493,0.23610568
+There are about 6200 known species of what?,amphibians,"mammals,reptiles' 'fish,birds,amphibians",3,0,False,"0.2633,0.2431,0.2533,0.2404",0.26325762,0.24037765
+The lens and other parts of the eye work together to focus a real image on what eye structure?,retina,"upil,iris,cornea,retina",3,0,False,"0.2756,0.2625,0.2311,0.2307",0.2755969,0.230737
+What is required to move or change matter from one state to another?,energy,"carbon,oxygen,nitrogen,energy",3,0,False,"0.3064,0.2389,0.2242,0.2305",0.30636728,0.23054208
+A food web can be broken up into what further subdivision that usually has a few links in it?,food chain,"food chain,population,ecosystem,species",0,2,False,"0.2669,0.2260,0.2905,0.2165",0.29054773,0.266907
+What living species of bird is considered the  largest of the raptors?,golden eagles,"peregrine falcon,golden eagles,peregrine falcon,peregrine falcon",1,0,False,"0.2619,0.2144,0.2619,0.2619",0.26187822,0.21436535
+What contains positive protons and neutral neutrons?,nucleus,"nucleus,nucleus,nucleus,nucleus",1,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+"Horny ridges on the jaws serve the same function as what, for turtles?",teeth,"teeth,sharp ridges,sharp teeth,sharp ridges",0,0,True,"0.2767,0.2334,0.2565,0.2334",0.27670318,0.27670318
+Natural gas is the predominately made up of?,methane,"methane,carbon dioxide,hydrogen,helium",0,2,False,"0.2157,0.2424,0.2808,0.2612",0.2807943,0.21566236
+"Which  organs control the amount of water, ions, and other substances in the blood by excreting more or less of them in urine?",kidneys,"liver,lungs,kidneys,heart",2,1,False,"0.2656,0.2847,0.2216,0.2282",0.28465495,0.2215776
+What unit of measurement is defined to be the number of atoms in 12g of carbon-12?,one mole,"one gram,one molecule,one mole,one atom",2,0,False,"0.2942,0.2513,0.2201,0.2344",0.29424953,0.22010356
+What involves sensing and focusing light from people and objects?,vision,"sight',sight''sight',vision,sight'",2,1,False,"0.2568,0.2613,0.2251,0.2568",0.26126242,0.22507739
+"What is a therian mammal in which the embryo is born at an early, immature stage?",a marsupial,"carnivorous,a marsupial,carnivores,carnivores",1,0,False,"0.2886,0.2124,0.2495,0.2495",0.28860843,0.21235108
+What are fungi which feed on living cells called?,parasitic,"spores,viruses,bacteria,parasitic",3,1,False,"0.2507,0.2755,0.2541,0.2197",0.27552342,0.21969546
+What rock group offers the richest source of fossils?,sedimentary,"granite,limestone,sedimentary,granite",2,0,False,"0.2568,0.2478,0.2386,0.2568",0.25677764,0.23863982
+What is the diffusion of water through a semipermeable membrane down its concentration gradient,osmosis,"carbon dioxide,osmosis,nitrogen,oxygen",1,0,False,"0.3258,0.1925,0.1964,0.2854",0.32577983,0.19246113
+Isotopes are named for their number of protons plus what?,neutrons,"nitrogen,neutrons,oxygen,hydrogen",1,2,False,"0.2634,0.2015,0.2940,0.2411",0.294016,0.20149375
+Movements in the mantle cause the plates to move over time in a process called what?,continental drift,"geological drift',seismic drift',continental drift',continental drift",3,3,True,"0.2520,0.2372,0.2506,0.2602",0.26022118,0.26022118
+"In phyisics, what is considered to be the rotational version of force?",torque,"gravity,spin,torque,friction",2,3,False,"0.2585,0.2707,0.1893,0.2815",0.28147578,0.18930101
+Skeletal muscles are attached to the skeleton by tough connective tissues called what?,tendons,"tendons,collagen,keratin,fibroblasts",0,3,False,"0.2101,0.2685,0.2315,0.2899",0.28992677,0.21006726
+What is the ability to see called?,vision,"vision,smell,sound,olor",0,0,True,"0.2869,0.2448,0.2499,0.2184",0.28693664,0.28693664
+Which two major innovations allowed seed plants to reproduce in the absence of water?,seed and pollen,"spores and pollen,seed and pollen,spores and seeds,spores and seeds and pollen",1,2,False,"0.2393,0.2418,0.2741,0.2448",0.274139,0.2417642
+Water can be broken down into hydrogen and oxygen gases by the addition of what?,energy,"carbon,nitrogen,oxygen,energy",3,3,True,"0.2528,0.2597,0.2206,0.2670",0.26695442,0.26695442
+What anatomical feature is shared by all chordates?,notochord,"spicule,spicule,spicule,notochord",3,0,False,"0.2615,0.2615,0.2615,0.2156",0.26145118,0.21564645
+"With wavelengths from 400-700 nm, what kind of light represents only a very small portion of the spectrum?",visible light,"radio waves,ultraviolet light,visible light,infrared light",2,0,False,"0.2631,0.2538,0.2340,0.2491",0.2630818,0.23399924
+"In humans, the only haploid cells are what reproductive cells?",sperm and egg,"egg,sperm,ovary,sperm and egg",3,0,False,"0.2863,0.2642,0.2329,0.2166",0.2862973,0.21661107
+Where is the spinal trigeminal nucleus located?,medulla,"ventricle,nucleus,medulla,ventricle",2,2,True,"0.2412,0.2500,0.2675,0.2412",0.2675453,0.2675453
+The lithosphere is divided into a dozen major and several minor what?,plates,"subatomic particles,plates,subduction zone,subduction",1,0,False,"0.2891,0.2096,0.2645,0.2368",0.2890699,0.20961818
+"During the first year after birth, what is a baby called?",infant,"infant,infant,adult,child",1,3,False,"0.2422,0.2422,0.2334,0.2822",0.2821631,0.24219358
+What are used to indicate the number of atoms of an element that are in the compound?,prefixes,"oxygen,prefixes,nitrogen,hydrogen",1,0,False,"0.2875,0.1995,0.2539,0.2591",0.28752896,0.19951151
+"Area, volume, and speed are all examples of what type of units?",derived units,"mass,weight,length,derived units",3,2,False,"0.2664,0.2624,0.2734,0.1979",0.2733569,0.19788505
+Anything moving has what type of energy?,kinetic,"static,kinetic,static,static",1,0,False,"0.2519,0.2444,0.2519,0.2519",0.2518672,0.24439833
+A skydiver will reach what when the air drag equals their weight?,terminal velocity,"horizontal velocity,orizontal velocity,terminal velocity,vertical velocity",2,3,False,"0.2588,0.2574,0.2241,0.2597",0.25972006,0.22407061
+What organs are considered the female gonads?,ovaries,"ovary,ovaries,ovary,ovary",1,0,False,"0.2532,0.2403,0.2532,0.2532",0.25323105,0.24030688
+What is the adaptation that certain animals use to become less visible to predators and prey?,camouflage,"camouflage,camouflage,camouflage,camouflage",3,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+What is another term for blood clotting?,coagulation,"spontaneous mutation,spontaneous generation,coagulation,spontaneous variation",2,1,False,"0.2217,0.3009,0.1888,0.2886",0.30091572,0.18877031
+What do you call the study of how organisms interact with their environment and each other?,ecology,"ecology,genetics,ecology,evolution",2,3,False,"0.2490,0.2311,0.2490,0.2708",0.27081394,0.24901856
+Childbirth usually starts when which sac breaks?,amniotic,"amniotic,amniotic fluid,amniotic sac,amniotic",0,1,False,"0.2495,0.2531,0.2478,0.2495",0.2530895,0.24954946
+"What phenomenon, which is most important in small populations, occurs because the alleles in an offspring generation are a random sample of the alleles in the parent generation?",genetic drift,"random drift,genetic drift,genetic mutation,genetic variation",1,3,False,"0.2328,0.2280,0.2658,0.2735",0.27345553,0.22797666
+What is the term for when an embryo fixes itself to the side of the uterus?,implantation,"implantation,implantation,implantation,implantation",3,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+"When exposed to ultraviolet, some substances, such as minerals, glow in characteristic visible wavelengths, a process called this?",fluorescence,"reflection,absorption,visible,fluorescence",3,0,False,"0.3111,0.2510,0.2433,0.1946",0.31109798,0.19462536
+What disease occurs when the cell cycle is no longer regulated?,cancer,"cancer,diabetes,cancer,heart attack",2,0,False,"0.2565,0.2537,0.2565,0.2332",0.25654462,0.25654462
+"If a lump of clay is dropped into water, what will occur?",it will sink,"float,it will sink,float,float",1,0,False,"0.2671,0.1987,0.2671,0.2671",0.267093,0.19872099
+Nerve cells that sense touch are found mainly where?,skin,"brain,lungs,skin,heart",2,1,False,"0.2523,0.2867,0.2513,0.2097",0.28672713,0.25127932
+What do concentric circles on a topographic map indicate?,a hill,"lake,river,mountain,a hill",3,2,False,"0.2396,0.2557,0.2871,0.2176",0.2870916,0.2176222
+"Arthropods today have two unusual hox genes, both of which influence what?",segmentation,"developmental',development',segmentation,segmentation'",2,1,False,"0.2402,0.2590,0.2509,0.2499",0.25900933,0.25087896
+What are the little sacs at the end of the bronchioles called?,alveoli,"carbon,alveoli,nitrogen,oxygen",1,2,False,"0.2598,0.2047,0.2990,0.2366",0.29898214,0.20466515
+How often should women perform a breast self-exam?,monthly,"monthly,every 4 weeks,every 2 weeks,monthly",0,1,False,"0.2125,0.2877,0.2874,0.2125",0.2876654,0.21248813
+"The spokes of what structures that distinguish saturn appear seasonally, with an origin as yet unknown?",rings,"spokes',rings,spins',spill'",1,3,False,"0.2249,0.2310,0.2444,0.2997",0.29973936,0.23099735
+"Circulating the air prevents ethylene from accumulating, and carbon dioxide inhibits synthesis of new what?",ethylene,"oxygen,hydrogen,ethylene,nitrogen",2,1,False,"0.2639,0.2658,0.2055,0.2648",0.26580402,0.20547195
+What is a fiber that is found only in mammals?,hair,"fiber,protein,hair,fat",2,3,False,"0.2431,0.2339,0.2587,0.2643",0.2642524,0.2586953
+The sternocleidomastoid is the major muscle that laterally flexes and rotates what?,head,"neck,spine,head,shoulder",2,0,False,"0.2574,0.2505,0.2559,0.2362",0.2573602,0.2559323
+What type of plants does human welfare depend greatly on?,seed plants,"seedlings,seed plants,seed plants,seedlings",1,0,False,"0.2564,0.2436,0.2436,0.2564",0.25641602,0.24358396
+What forms when secondary alcohols oxidize?,ketones,"hydrocarbons,hydrocarbons,ketones,hydrocarbons",2,0,False,"0.2553,0.2553,0.2342,0.2553",0.25527763,0.23416711
+What are cells without a nucleus called?,prokaryotic cells,"prokaryotic cells,prokaryotic cells,prokaryotic cells,prokaryotic cells",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+"Bones, cartilage, and what other thing make up the skeletal system?",ligaments,"muscle,muscle,muscle,ligaments",3,0,False,"0.2551,0.2551,0.2551,0.2347",0.2550899,0.23473024
+"The hypothalamus is actually part of the brain, but it also secretes what?",hormones,"hormones,hormones,hormones,hormones",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+What disease characterized by the extreme swelling of the limbs is caused by infection with a type of roundworm?,elephantiasis,"cancer,parasitic,heartworms,elephantiasis",3,1,False,"0.2441,0.2778,0.2421,0.2360",0.27781397,0.23595756
+"What is the study of water movement, including waves and ocean currents?",physical oceanography,"physical oceanography,sedimentation,sedimentation,sedimentation",0,1,False,"0.1931,0.2690,0.2690,0.2690",0.2689599,0.19312023
+What part of the sperm contains the nucleus?,head,"head,nucleus,tail,head",3,1,False,"0.2417,0.2789,0.2376,0.2417",0.27892983,0.24173686
+There are many types of asexual spores. conidiospores are unicellular or multicellular spores that are released directly from the tip or side of this?,hypha,"hypha,spore,spore,spore",0,1,False,"0.2302,0.2566,0.2566,0.2566",0.25659448,0.23021661
+What forms when nitrogen and sulfur oxides in air dissolve in rain?,acid rain,"acid rain,acid rain,acid fog,acid spray",1,3,False,"0.2502,0.2502,0.2483,0.2513",0.25126952,0.25023434
+Where do mushrooms get their energy?,decomposing dead organisms,"fungi,decomposing dead organisms,bacteria,viruses",1,3,False,"0.2219,0.1952,0.2772,0.3057",0.30567414,0.19517049
+What are the hormones that cause a plant to grow?,gibberellins,"hormones,growth hormones,gibberellins,hormones",2,0,False,"0.2608,0.2554,0.2231,0.2608",0.2607902,0.22306171
+The ileum is the last part of what digestive system organ?,small intestine,"large intestine,liver,stomach,small intestine",3,1,False,"0.2141,0.3000,0.2715,0.2145",0.2999505,0.21445456
+What are the smallest structural and functional unit of all living organisms?,cells,"viruses,cells,bacteria,fungi",1,0,False,"0.2800,0.2088,0.2331,0.2781",0.27997366,0.2088286
+"Clubfoot, also known as talipes, is a congenital (present at birth) disorder of unknown cause and is the most common deformity of what?",lower limb,"lower limb,foot,spine,leg",0,3,False,"0.2174,0.2507,0.2566,0.2753",0.27529445,0.2174235
+"Somatic cells come from the body and are not what, like sperm or eggs are?",gametes,"hormones,cells,proteins,gametes",3,0,False,"0.3038,0.2594,0.2235,0.2134",0.30376726,0.21335712
+What forms when nitrogen and oxygen combine at high temperatures?,nitrogen oxides,"nitrogen oxides,hydrogen,nitrogen dioxide,oxygen",0,1,False,"0.2257,0.2918,0.2269,0.2556",0.2918167,0.22574416
+A diagram in which the numerical values of variables are represented by the height or length of lines or rectangles of equal width is called?,bar graph,"bar graph,horizontal bar graph,horizontal graph,vertical graph",0,3,False,"0.2298,0.2357,0.2657,0.2688",0.26879925,0.22978887
+What opens two strands of dna?,helicase,"helix,helix,helicase,helicase",2,0,False,"0.2736,0.2736,0.2264,0.2264",0.2735718,0.22642821
+What come together to create continents and supercontinents?,microcontinents,"largecontinents,microcontinents,smallcontinents,largecontinents and smallcontinents",1,2,False,"0.2512,0.2502,0.2533,0.2453",0.25328568,0.2502016
+Most hybrids are sterile because what genetic structures are not homologous and cannot pair during meiosis?,chromosomes,"nucleoids,chromosomes,chromosomes,mitochondria",1,0,False,"0.2563,0.2530,0.2530,0.2377",0.25627097,0.25301972
+"Vultures, raccoons and blowflies are examples of what?",scavengers,"parasites,scavengers,carnivores,predators",1,3,False,"0.2736,0.2039,0.2472,0.2753",0.2753462,0.20388636
+What are classified by climatic factors and types of primary producers?,terrestrial biomes,"terrestrial biomes,tropical biomes,ocean biomes,terrestrial biomes",0,2,False,"0.2449,0.2539,0.2564,0.2449",0.25637084,0.24487953
+All organisms can be classified into one of three of this least specific grouping?,domains,"domains,fungi,bacteria,viruses",0,3,False,"0.2362,0.2481,0.2327,0.2830",0.2829664,0.23621517
+What artery takes blood to the brain?,carotid,"carotid,aorta,aorta,aorta",0,0,True,"0.2815,0.2395,0.2395,0.2395",0.28152627,0.28152627
+The bohr model works only for which atom?,hydrogen,"carbon,hydrogen,oxygen,helium",1,0,False,"0.2693,0.2078,0.2611,0.2617",0.26932037,0.20781207
+What holds together adenine and thymine?,hydrogen bonds,"hydrogen bonds,hydrogen bonds,hydrogen bonds,hydrogen bonds",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+Approximately 20% of the atmosphere is made of which element?,oxygen,"nitrogen,helium,carbon dioxide,oxygen",3,1,False,"0.2708,0.2868,0.2223,0.2201",0.28677452,0.22009498
+Compound forms when atoms of nonmetals form molecules that are held together by what?,covalent bonds,"hydrogen - helium bonds,ionic bonds,covalent bonds,hydrogen bonds",2,0,False,"0.2547,0.2532,0.2412,0.2508",0.2547411,0.2412042
+Which property of diamond makes it so hard?,chemical bonds,"bonds,electrons,atoms,chemical bonds",3,2,False,"0.2545,0.2394,0.2825,0.2236",0.28253344,0.22357261
+"Which has a higher metabolic rate, a mouse or an elephant?",mouse,"elephant,mouse,deer,shark",1,0,False,"0.2667,0.2611,0.2309,0.2413",0.26666743,0.26107147
+The bony socket that houses the eyeball and associated muscles is called?,orbit,"orbit,orbit,orbit,orbit",1,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+Where does the energy produced by plants come from?,sunlight,"sunlight,carbon dioxide,oxygen,nitrogen",0,3,False,"0.2455,0.2605,0.2297,0.2643",0.26434717,0.24547881
+"Humans cannot digest what primary structural material of plants, which is one of the most abundant organic substances on earth?",cellulose,"proteins,starches,cellulose,cellulose",2,0,False,"0.2727,0.2461,0.2406,0.2406",0.27267382,0.24061272
+"The cell walls of what organisms are strengthened by chitin, unlike plant cell walls, which contain cellulose?",fungi,"algae,viruses,bacteria,fungi",3,1,False,"0.2355,0.2600,0.2526,0.2519",0.26000053,0.25193518
+What three parts is the earth divided into?,"crust, mantle, core","crust, mantle, core,crust,core,mantle",0,2,False,"0.2085,0.2782,0.2853,0.2280",0.2852668,0.20849925
+Ac is better than dc for doing what?,transporting electrcal energy,"high voltage,high power,high current,transporting electrcal energy",3,1,False,"0.2467,0.2785,0.2507,0.2242",0.27851474,0.22415179
+"What arises due to crossing over, independent assortment, and the random union of gametes?",genetic variation,"mutation,variation,variation,genetic variation",3,0,False,"0.2811,0.2500,0.2500,0.2189",0.2811493,0.21894787
+Myofibrils are long cylindrical structures that lie parallel to and run the entire length of what fibers?,skeletal muscle fibers,"skeletal muscle fibers,muscle fibers,muscle cells,muscle fibers",0,2,False,"0.2399,0.2493,0.2616,0.2493",0.26161084,0.23987655
+Hydrogen atoms form only one covalent bond because they have only one have one of what to pair with it?,valence electron,"valence electron,electron,neutron,proton",0,2,False,"0.2242,0.2350,0.2799,0.2609",0.27990606,0.22416075
+The ionic end of a detergent can either be a sulfate or what?,sulfonate,"hydrofluoride,hydrochlorate,sulfonate,hydroiodide",2,3,False,"0.2562,0.2593,0.2052,0.2793",0.27932096,0.20524143
+"The inside of the small intestine has many folds, called villi. microvilli are lined with blood vessels as well as lymphatic vessels. the inside of the small intestine is called this?",lumen,"small intestine,lumen,large intestine,large and small intestine",1,3,False,"0.2473,0.2507,0.2485,0.2535",0.25352916,0.25072882
+Why do fish have short esophaguses?,no lungs,"no lungs,no lungs',no eyes',no ears'",0,3,False,"0.2345,0.2397,0.2612,0.2647",0.26466385,0.23446275
+What broad animal group is thought to have evolved from theropod dinosaurs around 150 million years ago?,birds,"birds,reptiles,insects,mammals",0,3,False,"0.2441,0.2582,0.2355,0.2622",0.26221922,0.24405046
+"During evolution, something happened to increase the size of what organ in humans, relative to that of the chimpanzee?",brain,"liver,heart,lungs,brain",3,3,True,"0.2301,0.2300,0.2606,0.2794",0.27936032,0.27936032
+What is the protein in red blood cells which transports oxygen around the body?,hemoglobin,"hemoglobin,carbon,nitrogen,oxygen",0,3,False,"0.2122,0.2708,0.2284,0.2886",0.28857717,0.21220961
+The glass hydrometer is filled with air and weighted with lead at the bottom. it floats highest in the densest fluids and has been calibrated and labeled so that you can read this from it?,specific gravity,"density,specific gravity,density,density",1,0,False,"0.2548,0.2356,0.2548,0.2548",0.25478506,0.2356448
+What system provides a major route for heat flow between the interior and exterior of the body?,the circulatory system,"the nervous system,the respiratory system,the circulatory system,the circulatory system",2,0,False,"0.2564,0.2515,0.2461,0.2461",0.25636965,0.24606909
+Organs involved in digestion that do not have food pass through them are called?,accessory organs,"liver,accessory organs,gall bladder,pancreas",1,0,False,"0.2613,0.2454,0.2470,0.2462",0.26134953,0.24538185
+"At a synapse, what objects are released to carry a nerve impulse from one neuron to the next?",neurotransmitters,"photons,ions,neurotransmitters,electrons",2,1,False,"0.2536,0.2882,0.1732,0.2850",0.28818145,0.17315108
+All cells have a jellylike substance in which subcellular components are suspended. what is that substance?,cytosol,"cytosol,plasma,membrane,nucleus",0,0,True,"0.2623,0.2490,0.2447,0.2440",0.26230958,0.26230958
+"In physics, when one subtracts the frictional force from the applied force what is the result?",net force,"negative force,negative friction,net force,negative frictional force",2,0,False,"0.2611,0.2522,0.2483,0.2384",0.26112014,0.24828032
+What is the term for the force that brings objects toward the earth?,gravity,"airborne',gravity,air pressure',airborne'",1,0,False,"0.2763,0.2143,0.2332,0.2763",0.27629358,0.2142587
+"Skyscrapers and other large structures built on soft ground must be anchored to what, located below the ground surface?",bedrock,"water,bedrock,rock,air",1,2,False,"0.2653,0.2326,0.2712,0.2310",0.27117878,0.23256019
+"When your brain senses that your body temperature is increasing, it sends messages to the blood vessels in the skin to increase in what?",diameter,"diameter,pressure,oxygen,size",0,3,False,"0.2200,0.2778,0.2231,0.2791",0.27905685,0.21998811
+Ingestion and propulsion are the first two steps in which process that describes how humans process and consume food?,digestion,"absorption,digestion,metabolism,excretion",1,2,False,"0.2268,0.2237,0.2907,0.2588",0.29066887,0.22374596
+Which fish has a round sucker used to suck the blood of other fish?,lamprey,"shark,fish,lamprey,eel",2,1,False,"0.2501,0.2871,0.2120,0.2508",0.28708908,0.21203531
+What type of change is undergone when the physical properties of a substance are changed?,physical,"chemical change,physical,chemical,chemical reaction",1,3,False,"0.2036,0.2553,0.2652,0.2760",0.2759831,0.25525755
+"Digestive enzymes are released, or secreted, by the organs of which body system?",digestive system,"digestive system,skeletal',heart',endocrine'",0,1,False,"0.1901,0.2896,0.2745,0.2457",0.28964463,0.19008718
+When water is aerated it can provide a plant's roots with what gas for cellular respiration?,oxygen,"carbon dioxide,oxygen,hydrogen,nitrogen",1,2,False,"0.2378,0.2553,0.2625,0.2444",0.2624648,0.25531682
+Where on a jellyfish is the mouth opening located?,underside,"dorsal,ventral,lateral,underside",3,2,False,"0.2263,0.2523,0.2642,0.2573",0.26415393,0.25725907
+Calcium ion is an example of what kind of messenger?,second,"fourth,first,third,second",3,3,True,"0.2352,0.2618,0.2384,0.2645",0.264508,0.264508
+Aspirin and ibuprofen reduce pain by inhibiting the synthesis of what?,prostaglandins,"cholesterol,prostaglandins,insulin,vitamin",1,1,True,"0.2359,0.2701,0.2479,0.2461",0.27009636,0.27009636
+What unit do astronomers use to describe distances in space?,light years,"miles,feet,centimeters,light years",3,1,False,"0.2507,0.2589,0.2449,0.2455",0.25894994,0.24551643
+What is the process by which water moves through semi-permeable membranes from one part of the body to another?,osmosis,"diffusion,diffusion,osmosis,diffusion",2,0,False,"0.2661,0.2661,0.2016,0.2661",0.26612884,0.20161353
+What is the phenotypic range of a particular genotype called?,norm of reaction,"norm of reaction,normal',normal,normal",0,1,False,"0.2511,0.2685,0.2402,0.2402",0.26845548,0.25105593
+What cells are the basis of nervous tissue?,neurons,"neurons,neurons,neurons,neurons",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+"Pure carbon can exist in different forms, depending on how its atoms are arranged. the forms include diamond, graphite, and what else?",fullerenes,"helium,hydrogen,carbon,fullerenes",3,1,False,"0.2356,0.2989,0.2457,0.2197",0.2988833,0.21972987
+"Which cavity, filled with lubricating serous fluid, lies between the epicardium and the pericardium?",pericardial cavity,"atrium,ventricle and atrium,ventricle,pericardial cavity",3,0,False,"0.2952,0.2346,0.2661,0.2040",0.29521593,0.20404357
+What part of the male reproductive system is involved with the most common disorders?,the testes,"ovary,fallopian tube,uterus,the testes",3,0,False,"0.2840,0.2641,0.2374,0.2146",0.28395775,0.21456203
+Layers of what create a volcano?,lava,"magma,ice,water,lava",3,2,False,"0.2012,0.2835,0.2980,0.2173",0.29803535,0.2173412
+"In amphibians, reptiles, birds, and mammals, blood flow is directed in two circuits: one through the lungs and back to the heart, which is called what?",pulmonary circulation,"circulatory,circulatory,circulatory,pulmonary circulation",3,0,False,"0.2510,0.2510,0.2510,0.2470",0.25100437,0.24698691
+Non-human organisms that mainly consume plants/other primary producers are known as what?,herbivores,"carnivores,carnivores,herbivores,carnivores",2,0,False,"0.2511,0.2511,0.2466,0.2511",0.25112525,0.24662426
+"In the microbiology lab, what technique refers to the procedures that are carried out under sterile conditions?",aseptic,"sterile,contaminated,contaminated,aseptic",3,1,False,"0.2454,0.2669,0.2669,0.2209",0.26686355,0.22092068
+"Connecting a magnesium rod to an underground steel pipeline protects the pipeline from corrosion. because magnesium (e° = −2.37 v) is much more easily oxidized than iron (e° = −0.45 v), the mg rod acts as the anode in a what?",galvanic cell,"galvanic cell,hydrogen,oxygen,nitrogen",0,1,False,"0.2198,0.3038,0.2745,0.2019",0.3038287,0.21984164
+"Matrix is the term for the fluid-filled interior of what structure, where most of the cell’s atp is made?",mitochondria,"cleus,cytoplasm,mitochondria,ribosome",2,3,False,"0.2312,0.2657,0.2151,0.2879",0.28793693,0.21509016
+"Chitin, also found in the exoskeleton of insects, gives structural strength to the cell walls of fungi. the cell wall protects the cell from what?",desiccation and predators,"pollen,desiccation and predators,bacteria,spores",1,3,False,"0.2779,0.2115,0.2213,0.2893",0.28931332,0.21148418
+What is the term for air moving over earth’s surface?,wind,"ice,snow,cloud,wind",3,2,False,"0.2253,0.2486,0.2649,0.2612",0.264862,0.26123545
+Each of what paired organs is enclosed within a cavity surrounded by the pleura?,lungs,"heart,lungs,liver,kidney",1,2,False,"0.2161,0.2087,0.2916,0.2836",0.2915888,0.20871848
+What are the best-known extinct vertebrates?,dinosaurs,"mammals,reptiles,birds,dinosaurs",3,0,False,"0.2766,0.2601,0.2320,0.2313",0.2766215,0.23125125
+Centrioles help organize the chromosomes before cell division so that each daughter cell has the correct number of what?,chromosomes,"ribosomes,nucleus,mitochondria,chromosomes",3,1,False,"0.2472,0.2764,0.2258,0.2505",0.27642354,0.25050578
+What development is less risky for the mother?,marsupial,"mammal,bird,reptile,marsupial",3,0,False,"0.2897,0.2326,0.2762,0.2015",0.2897081,0.20153987
+What does the term decay in chemistry refer to with regards to atoms?,changes in nuclei,"changes in nuclei,changes in nuclei,changes in electrons and nuclei,changes in electrons",0,3,False,"0.2499,0.2499,0.2477,0.2525",0.25252962,0.24988542
+How does increasing the temperature of reactants affect the rate of their reaction?,it increases it,"faster,more,it increases it,less",2,2,True,"0.2378,0.2449,0.2832,0.2341",0.28317532,0.28317532
+What type of eclipse happens when a full moon moves through earth's shadow?,lunar,"solar flare,solar eclipse,solar,lunar",3,3,True,"0.2562,0.2215,0.2610,0.2613",0.26132503,0.26132503
+Dynamite is an example of what type of potential energy?,chemical,"gravitational,thermal,kinetic,chemical",3,0,False,"0.3341,0.2370,0.2100,0.2190",0.3340604,0.21898948
+All the atoms of a given element have the same number what?,protons and electrons,"protons and neutrons,protons and electrons,electrons and neutrons,protons and neutrons and electrons",1,1,True,"0.2488,0.2525,0.2499,0.2489",0.25246993,0.25246993
+What structures located on chromosomes control characteristics of life and are passed from parents to offspring?,genes,"hormones,proteins,genes,enzymes",2,2,True,"0.2483,0.2223,0.2662,0.2632",0.26615497,0.26615497
+The lattice energy is usually the most important energy factor in determining the stability of what?,ionic compound,"ionic compound,metal compound,hydrocarbon,metalloid compound",0,2,False,"0.2327,0.2448,0.2809,0.2417",0.28086096,0.23266077
+What kind of organisms helps hold soil in place to slow erosion?,plants,"bacteria,plants,fungi,insects",1,1,True,"0.2189,0.2831,0.2505,0.2475",0.28305075,0.28305075
+Water found on the surface of the earth is referred to as what?,surface water,"surface water',surface air',surface water',surface water",3,1,False,"0.2462,0.2553,0.2462,0.2522",0.25534979,0.25216937
+Which planet is named after the roman goddess of love?,venus,"venus,mars,jupiter,earth",0,3,False,"0.2313,0.2448,0.2612,0.2627",0.26268277,0.23127218
+"In astronomy, what are so dense that not even light can escape their gravity?",black holes,"neutron stars,neutron stars,black holes,white dwarfs",2,3,False,"0.2602,0.2602,0.2075,0.2721",0.27212912,0.20750408
+What are the simplest organic compounds?,hydrocarbons,"hydrocarbons,hydrocarbons,hydrocarbons,hydrocarbons",2,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+"Animals are classified according to morphological and developmental characteristics, such as a body plan. with the exception of sponges, the animal body plan is symmetrical. this means that their distribution of body parts is balanced along this?",axis,"axis,vertical,diagonal,horizontal",0,0,True,"0.2797,0.2396,0.2367,0.2441",0.2796898,0.2796898
+"Competition that occurs between members of the same species, which improves the species’ adaptations, is called what?",intraspecific competition,"intraspecific competition,intrinsically competitive,mutual competition,interdependence",0,3,False,"0.2170,0.2507,0.2288,0.3035",0.3035058,0.21702029
+"When we were dealing with electrical effects, it was very useful to speak of an electric field that surrounded what?",electrical charge,"magnetic field,magnetic field lines,magnetic pole,electrical charge",3,0,False,"0.2554,0.2453,0.2527,0.2466",0.25540146,0.24664386
+"Plants require air, water, nutrients, and what in order to live and survive?",light,"water,oxygen,carbon dioxide,light",3,2,False,"0.2586,0.2550,0.2623,0.2242",0.26230463,0.22415257
+"Exothermic reactions, like all chemical reactions, require what to get started?",activation energy,"high energy,activation energy,high pressure,high temperature",1,3,False,"0.2514,0.1947,0.2696,0.2843",0.2843213,0.19466908
+"What broad group of animals are the first true tetrapods, vertebrates with four limbs?",amphibians,"amphibians,rthropods,reptiles,mammals",0,3,False,"0.1835,0.2647,0.2747,0.2771",0.2771056,0.183519
+"In most fungi, the haploid nuclei contributed by each parent do not do what right away?",fuse,"use',use',fuse,use'",2,0,False,"0.2511,0.2511,0.2467,0.2511",0.25111243,0.24666269
+What is telomere shortening associated with?,aging,"aging,aging,aging,aging",2,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+What gas is released when dead organisms and other organic materials decompose?,carbon dioxide,"carbon dioxide,oxygen,hydrogen,nitrogen",0,2,False,"0.2233,0.2546,0.2627,0.2594",0.26268047,0.22331984
+What type of lens is thicker at the edges than it is in the middle?,concave lens,"concave lens,convex lens,convex lens,convex lens",0,1,False,"0.2351,0.2550,0.2550,0.2550",0.25496712,0.2350986
+A collapsing nebula leads to what process?,nuclear fusion,"nuclear fusion,helium,heliumation,heliumation",0,1,False,"0.1867,0.2833,0.2650,0.2650",0.28326124,0.18669923
+Lenses that focus light are called what?,converging lenses,"converging lenses,diverging lenses,converging lenses,converging lenses",0,0,True,"0.2503,0.2492,0.2503,0.2503",0.2502605,0.2502605
+What happens to the pressure when more gas is added to a rigid container?,increases,"increases,less than 3,less than 1,less than 2",0,0,True,"0.3138,0.2317,0.2383,0.2163",0.3137595,0.3137595
+"Often represented by an arrow, a vector is a measurement that has both size and what?",direction,"horizontal and vertical,vertical,direction,horizontal",2,1,False,"0.2487,0.2724,0.2133,0.2657",0.27237356,0.21329352
+A solenoid wrapped around a bar of iron or other ferromagnetic material forms what?,electromagnet,"magnetic field,magnetic force,electromagnet,magnetic moment",2,3,False,"0.2521,0.2530,0.2259,0.2691",0.26911393,0.22585256
+Enzymes can catalyze up to several million reactions per what?,second,"third,fourth,second,second",2,2,True,"0.2411,0.2312,0.2638,0.2638",0.26384723,0.26384723
+"Unipolar, bipolar, multipolar, and pseudounipolar are the four basic types of what?",neurons,"neurons,axons,neurons,dendrites",0,1,False,"0.2558,0.2569,0.2558,0.2314",0.25689712,0.25584534
+How many families are known quarks divided into?,three,"two,four,five,three",3,1,False,"0.2432,0.2549,0.2531,0.2488",0.25488168,0.24879101
+"The nervous system has two main parts, called the central nervous system and the what?",peripheral nervous system,"peripheral nervous system,peripheral nervous system,peripheral nervous system,peripheral nervous system",1,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+What makes up the dense outer layer of bones?,compact bone,"compact bone,fat,compact bone,muscle",2,1,False,"0.2259,0.2937,0.2259,0.2546",0.2936928,0.22587754
+"What type of behaviors are rigid and predictable, and usually involve basic life functions?",innate behaviors,"active behaviors,innate behaviors,innate behaviors,innate behaviors",2,0,False,"0.2614,0.2462,0.2462,0.2462",0.26141927,0.24619359
+"Yeasts, molds, and mushrooms are all different kinds of what?",fungi,"bacteria,fungi,parasites,viruses",1,3,False,"0.2459,0.2038,0.2592,0.2910",0.29104647,0.20384188
+What is the term for the preserved remains or traces of organisms that lived in the past?,fossils,"fossil,fossilized,fossils,fossilization",2,2,True,"0.2033,0.2434,0.2918,0.2614",0.29182348,0.29182348
+"What process, which is analogous to mitosis, is a series of events that arrange and separate chromosomes and chromatids into daughter cells?",meiosis,"meiosis,differentiation,splicing,replication",0,2,False,"0.2115,0.2685,0.2732,0.2468",0.27322054,0.21148215
+All of the elements in group 9 have nine of which electrons?,valence,"nitrogen,valence,oxygen,helium",1,3,False,"0.2611,0.1955,0.2707,0.2727",0.2726899,0.19551305
+The force of attraction between a positively charged metal ion and the valence electrons it shares with other ions of the metal is called?,metallic bond,"metallic repulsion,metallic attraction,metallic bond,metallic bond",3,2,False,"0.2498,0.2440,0.2531,0.2531",0.25310606,0.25310606
+"When a car is brought to a stop by friction on level ground, it loses what?",kinetic energy,"mass,momentum,velocity,kinetic energy",3,1,False,"0.2243,0.2892,0.2765,0.2101",0.2891819,0.21006167
+"What system of the body is responsible for transmitting, processing, and responding to most of the sensory information that is created by various stimuli?",nervous system,"nervous system,nervous system,nervous system,nervous system",2,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+Do vascular or nonvascular plants lack tracheids?,nonvascular,"trichomes,trichina,nonvascular,tracheids",2,0,False,"0.2775,0.2749,0.2216,0.2260",0.2775189,0.22161153
+"When the earth is between the moon and the sun, what type of moon shows?",a full moon,"gibbous moon,crescent moon,new moon,a full moon",3,2,False,"0.2416,0.2500,0.2579,0.2505",0.2578739,0.25050426
+The stored chemical energy of trees and other plants is called what?,biomass energy,"fossil fuels,biomass energy,nuclear energy,renewable energy",1,2,False,"0.2353,0.2053,0.3099,0.2495",0.30985692,0.2053233
+What is the star nearest the earth named?,proxima centauri,"proxima centauri,beta centauri,alpha centauri,gamma centauri",0,1,False,"0.2418,0.2533,0.2530,0.2519",0.25329337,0.24183352
+What are the majority of solution properties dependent upon?,chemical state of solute,"chemical state of solute,volatile,liquid,solid",0,3,False,"0.1908,0.2578,0.2736,0.2778",0.2777772,0.19078444
+What must be combined with a halogen to give it a positive oxidation number?,oxygen,"hydrogen,oxygen,sulfur,nitrogen",1,3,False,"0.2423,0.2344,0.2508,0.2725",0.27250373,0.2343876
+Hormones are often regulated through what?,feedback loops,"reinforcement loops',redundancy loops',reduction loops',feedback loops",3,0,False,"0.2734,0.2219,0.2650,0.2397",0.27343357,0.23971769
+Surging hormones will cause adolescents to have what?,mood swings,"nxiety,mood swings,sleep,depression",1,0,False,"0.2798,0.2305,0.2336,0.2561",0.27978697,0.23047616
+What is the term for the force that a magnet exerts on certain materials?,magnetic force,"magnetic moment,magnetic field,magnetic force,agnetic force",2,3,False,"0.2451,0.2499,0.2376,0.2674",0.26740906,0.23757954
+What cells does the skeletal system make?,blood cells,"cells,proteins,hormones,blood cells",3,2,False,"0.2349,0.2781,0.2804,0.2067",0.28038248,0.20668052
+"When a stream or river slows down, it starts dropping its what?",sediments,"sediments,sedimentation,sediment,sedimentation",0,2,False,"0.2472,0.2469,0.2590,0.2469",0.25903547,0.24716605
+"What process, which is in many ways the opposite of photosynthesis, shows the interdependence of producers and consumers?",cellular respiration,"oxygen,nitrogen fixation,cellular respiration,photosynthesis",2,0,False,"0.3150,0.2529,0.2147,0.2174",0.31500158,0.21468464
+Which membranous organelles in a cell sequence enzyme and electron molecules for efficient cellular respiration?,mitochondria,"mitochondria,mitochondria,chloroplasts,ribosomes",0,3,False,"0.2138,0.2138,0.2839,0.2884",0.28842467,0.21382202
+"In a plant, the flower contains what?",pollen and eggs,"seeds,seeds and eggs,pollen and eggs,seeds and pollen'",2,2,True,"0.2572,0.2580,0.2675,0.2173",0.267467,0.267467
+What forms when one substances dissolves in another?,a solution,"a solution,a solution,a liquid,a gas",1,3,False,"0.2299,0.2299,0.2558,0.2843",0.28431222,0.22992785
+What are thought to have evolved at least 200 million years ago from gymnosperms like gnetae?,flowering plants,"carnivores,carnivores,flowering plants,carnivores",2,0,False,"0.2584,0.2584,0.2249,0.2584",0.25836042,0.22491877
+The chemical and/or physical agents that cause mutations are called what?,mutagens,"bacteria,mutagens,viruses,pirochetes",1,0,False,"0.3001,0.2090,0.2424,0.2485",0.30008537,0.20904094
+What is the force that opposes motion between two surfaces that are touching?,friction,"gravity,friction,friction is greater than friction,friction",3,0,False,"0.2918,0.2397,0.2287,0.2397",0.29184812,0.23973954
+"Skeletal, cardiac, and smooth are all types of what?",muscle,"muscle,uscle,muscle fibers,muscle tissue",0,1,False,"0.2558,0.2647,0.2416,0.2379",0.2646814,0.2558346
+"The speed of a wave through connected harmonic oscillators depends on the distance between them, the spring constant, and the what?",mass,"volume,mass,mass,length",2,1,False,"0.2278,0.2789,0.2789,0.2143",0.27892542,0.27892542
+Traits may also be controlled by multiple alleles or multiple what?,genes,"genes,genes,genes,genes",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+How many atoms does water contain?,3,"3,2,6,4",0,3,False,"0.2443,0.2429,0.2560,0.2568",0.25676858,0.24433464
+What is the only light that people can see?,visible light,"red light,infrared light,visible light,ultraviolet light",2,0,False,"0.2865,0.2397,0.2372,0.2366",0.2864732,0.23721413
+"What is the name of the system that consists of a hierarchy of taxa, from the kingdom to the species?",linnaean system,"linnaean system,species,species,species",0,1,False,"0.2345,0.2552,0.2552,0.2552",0.2551693,0.23449208
+"If the dna from all 46 chromosomes in a human cell nucleus was laid out end to end, it would measure approximately how long?",two meters,"1 meter,3 meters,two meters,2 meters",2,2,True,"0.2463,0.2445,0.2608,0.2484",0.2607826,0.2607826
+What is a mixture of a solute in a solvent called?,solution,"liquid,solution,gas,olatile",1,0,False,"0.2834,0.2333,0.2474,0.2360",0.28336006,0.23327786
+Silver is an example of a mineral containing only one kind of what?,element,"iron,element,gold,copper",1,2,False,"0.2382,0.2350,0.2790,0.2478",0.2789522,0.23503563
+What particles ancient greeks propose that matter consists of ?,atoms,"atoms,protons,neutrons,electrons",0,0,True,"0.2780,0.2360,0.2364,0.2497",0.27798742,0.27798742
+Repolarization occurs when the membrane potential begins to move back toward its resting what?,voltage,"voltage,negative,voltage,positive",2,1,False,"0.2469,0.2756,0.2469,0.2305",0.27561486,0.2469401
+Mollusks have a true coelom and a complete what?,digestive system,"nervous system,nervous system,digestive system,nervous system",2,0,False,"0.2638,0.2638,0.2087,0.2638",0.26377022,0.20868933
+"Which organelles, made of protein and ribosomal rna, build cellular proteins in the cytoplasm?",ribosomes,"ribosomes,endoplasmic reticulum,itochondria,chloroplasts",0,1,False,"0.2114,0.2783,0.2349,0.2754",0.27827057,0.21137434
+What type of matter makes up most of the universe?,plasma,"gas,plasma,solid,liquid",1,3,False,"0.2729,0.2120,0.2371,0.2780",0.27797002,0.21195588
+"Most mammals are viviparous, which refers to what reproductive result?",live birth,"live birth,live birth,live birth,live birth",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+Proteins are polymers of what kind of acids?,amino,"amino,sugars,hydrocarbons,nucleic acids",0,2,False,"0.2224,0.2634,0.3054,0.2088",0.305399,0.22241795
+What is the official name for the study of life?,biology,"ecology,physics,genetics,biology",3,0,False,"0.2908,0.2061,0.2530,0.2500",0.29084277,0.25003257
+"What does an invertebrate, like a snail, not have?",backbone,"backbone,skin,muscle,bone",0,2,False,"0.2629,0.2092,0.2789,0.2490",0.27885884,0.2628675
+What is the dinosaur genus that's closest to modern birds?,deinonychus,"ovoceros,ovoceros,oviraptor,deinonychus",3,0,False,"0.2867,0.2867,0.2171,0.2095",0.28670517,0.20951928
+In what type of organisms are daughter cells individuals?,unicellular organisms,"eukaryotic,unicellular organisms,prokaryotic,multicellular organisms",1,3,False,"0.2428,0.2284,0.2396,0.2892",0.2891688,0.22842842
+"What group was long considered part of the plant kingdom because of obvious similarities; both are immobile, have cell walls, and grow in soil?",fungi,"fungi,viruses,bacteria,fungi",0,2,False,"0.2457,0.2290,0.2796,0.2457",0.2795709,0.24573179
+What type of waves transmit the energy of an earthquake?,seismic waves,"seismic waves,seismic waves,seismic waves,seismic waves",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+"In our bodies, the chest cavity is a clear example of a system at what?",resonance,"high pressure,high frequency,high temperature,resonance",3,0,False,"0.2766,0.2475,0.2639,0.2120",0.2765832,0.21200043
+How do prokaryotic cells divide?,binary fission,"binary fission,yeast,bacteria,spirogyra",0,2,False,"0.1900,0.2912,0.3063,0.2126",0.30625373,0.18995678
+What is the term for a series of biochemical reactions by which an organism converts a given reactant to a specific end product?,metabolic pathway,"metabolic pathway,metabolic cycle,metabolic pathway,metabolic process",2,3,False,"0.2474,0.2514,0.2474,0.2538",0.2537929,0.24738649
+"Exemplified by sea stars and sand dollars, echinoderms have a calcareous structure developed by pigment cells and made of ossicles, which is called what?",endoskeleton,"calcified,endoskeleton,calcified,calcified",1,0,False,"0.2663,0.2011,0.2663,0.2663",0.266287,0.20113905
+What phase does the nuclear envelope begin to break down?,prophase i,"prophase I,prophase i,prophase III,prophase II",1,0,False,"0.2519,0.2519,0.2493,0.2469",0.25188696,0.25188696
+What are formed when cells from the male and female parts of the plant combine?,seeds,"pollen,spores,seeds,fruit",2,3,False,"0.2390,0.2463,0.2533,0.2614",0.26143378,0.25328016
+What is another name for anther pollen sacs?,microsporangia,"pollen tubes,pollen grains,pollen sacs,microsporangia",3,3,True,"0.2463,0.2515,0.2355,0.2667",0.26666012,0.26666012
+What is released to lubricate the vagina to facilitate intercourse?,vaginal secretions,"vaginal secretions,vaginal discharge,vaginal fluid,vaginal secretions",0,1,False,"0.2365,0.2742,0.2528,0.2365",0.27416956,0.23651284
+"Cnidarians are an example of organisms that possess a simple type of what system, used for sensing touch?",nervous system,"nervous system,nervous system,nervous system,nervous system",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+What can we learn about a wave by finding the product of the wavelength and frequency?,speed,"wavelength,frequency,speed,amplitude",2,3,False,"0.2313,0.2594,0.2431,0.2661",0.26614454,0.24314103
+Where are liverworts most often found?,along stream beds,"water plants,along stream beds,water plants,water lilies",1,0,False,"0.2695,0.1966,0.2695,0.2644",0.26950666,0.19661313
+What does a continuous string of earthquakes indicate about a volcano?,eruption is close,"volcanic eruption,volcanic eruption,eruption is close,volcanic eruption",2,0,False,"0.2518,0.2518,0.2445,0.2518",0.2518191,0.24454272
+"What term is used to describe  the variety of life and its processes, including the variety of living organisms, the genetic differences among them, and the communities and ecosystems in which they occur?",biodiversity,"biodiversity,habitat,species,ecosystem",0,0,True,"0.2706,0.2582,0.2073,0.2639",0.27057937,0.27057937
+What kind of a disorder is tay-sachs disease?,inherited disorder,"inherited disorder,inherited disease,inherited disorder,inherited disorder",3,0,False,"0.2507,0.2479,0.2507,0.2507",0.2506988,0.2506988
+"A rock that contains important minerals is called what, a term associated with mining?",ore,"metal,mineral,ore,rock",2,0,False,"0.2745,0.2470,0.2278,0.2507",0.2744952,0.22780214
+"Besides the size of their crystals, how are igneous rocks grouped?",minerals they contain,"minerals they contain,basalt,granite,gabbro",0,2,False,"0.2330,0.2403,0.2991,0.2276",0.29909813,0.23302867
+Convection is the heat transfer by the macroscopic movement of a what?,fluid,"fluid,conduction,convection,convection",0,0,True,"0.2743,0.2264,0.2496,0.2496",0.27430263,0.27430263
+Hypersection by an endocrine gland is often caused by what?,tumor,"hypotension,tumor,hypothermia,hypoxia",1,3,False,"0.2563,0.2165,0.2586,0.2687",0.268688,0.2164718
+What gland secretes growth hormones?,pituitary,"adrenal,thyroid,pituitary,parathyroid",2,3,False,"0.2546,0.2665,0.2015,0.2774",0.27738485,0.20150857
+We must remember that the formal charge calculated for an atom is not the actual charge of the atom in the molecule. formal charge is only a useful bookkeeping procedure; it does not indicate the presence of these?,actual charges,"negative ions,negative electrons,negative charges,actual charges",3,0,False,"0.2672,0.2508,0.2473,0.2347",0.26718056,0.23469836
+What kind of rock layer makes up the bottom of an aquifer?,impermeable,"porous,impermeable,porous,porous",1,0,False,"0.2540,0.2379,0.2540,0.2540",0.25402474,0.23792577
+The amniotic egg is a shared ancestral character for which clade?,amniota,"mammalia,reptilia,amniota,arachnids",2,0,False,"0.2903,0.2110,0.2316,0.2671",0.2903268,0.2315844
+Lyme disease is caused by what kind of organim?,bacteria,"fungi,bacteria,bacteria,viruses",2,3,False,"0.1903,0.2649,0.2649,0.2800",0.27997243,0.26488185
+What is the side to side movement of the mandible called?,excursion,"lateral and medial excursion,lateral excursion,medial excursion,excursion",3,3,True,"0.2460,0.2475,0.2475,0.2590",0.25898722,0.25898722
+A moraine is sediment deposited by what?,glacier,"ice,water,snow,glacier",3,1,False,"0.2726,0.2822,0.2144,0.2308",0.2822157,0.23079
+The development of the respiratory system in the fetus begins at about?,4 weeks,"2 weeks,4 weeks,6 weeks,12 weeks",1,3,False,"0.2452,0.2510,0.2475,0.2562",0.25623837,0.25104493
+What are plants that grow on other plants called?,epiphytes,"carnivores,carnivores,carnivorous,epiphytes",3,0,False,"0.2959,0.2959,0.2042,0.2040",0.29588988,0.20398185
+An object attached to a spring sliding on a frictionless surface is an uncomplicated type of what device?,simple harmonic oscillator,"simple harmonic oscillator,scillating,harmonic generator,pendulum",0,3,False,"0.2025,0.2802,0.2286,0.2887",0.2887302,0.20254205
+What controls all five senses?,nervous system,"heart',eyes',brain',nervous system",3,1,False,"0.2574,0.2632,0.2407,0.2388",0.26321366,0.23876406
+Where in the target cells are intracellular receptor proteins found?,cytoplasm or nucleus,"cytoplasm or nucleus,nucleus,mitochondria,cytoplasm",0,1,False,"0.2302,0.2766,0.2447,0.2485",0.27663556,0.23022641
+"The components of a mixture keep their own identity when they combine, so they retain what type of properties, such as boiling point and ability to dissolve?",physical,"chemical,chemical and physical,physical,physical",3,0,False,"0.2730,0.2343,0.2464,0.2464",0.27298015,0.2463819
+"A thermite reaction is thermodynamically spontaneous, and because it is associated with a significant release of heat, it is regarded as what?",exothermic,"exothermic,radioactive,radioactive,spontaneous",0,1,False,"0.2032,0.2887,0.2887,0.2194",0.2887126,0.20320201
+What do nectar-feeding bats do to flowers?,pollinate,"pollination,pollinate,pollination,pollinate",1,0,False,"0.2511,0.2489,0.2511,0.2489",0.25108114,0.24891888
+Ecological succession refers to the change in the numbers and types of species that live in what groups?,communities,"species,animals,communities,plants",2,1,False,"0.1907,0.3007,0.2244,0.2842",0.30072683,0.22437231
+"What broad group of organisms is characterized by sensory organs, the ability to move, internal digestion and sexual reproduction?",animals,"insects,carnivores,animals,plants",2,0,False,"0.2828,0.2478,0.2570,0.2124",0.28282747,0.25699973
+"Foodborne illness, food allergies, or a food intolerance cause symptoms in what system?",digestive,"nervous system,nervous,nervous system and nervous system,digestive",3,2,False,"0.2743,0.2371,0.2755,0.2131",0.2755197,0.21305867
+The number of what subatomic particles determines an element’s atomic number and is used to distinguish one element from another?,protons,"neutrons and protons,neutrons,electrons,protons",3,2,False,"0.2362,0.2457,0.2727,0.2454",0.27274027,0.24538673
+What regulates the time of flowering in many species?,photoperiodism,"light',photoperiodism,temperature,humidity",1,1,True,"0.2588,0.2665,0.2287,0.2460",0.26649088,0.26649088
+What is the most common cause of down syndrome?,trisomy 21,"trisomy 21,trisomy 22',trisomy 18,trisomy 21",0,1,False,"0.2472,0.2558,0.2498,0.2472",0.2558108,0.24720867
+"What occurs not only as organisms grow, but as they reproduce.",cell division,"mutation rate,mutation,cell division,splicing",2,1,False,"0.2364,0.2863,0.1966,0.2806",0.28630522,0.19663277
+"What useful tool helps scientists work with, understand and make predictions about extremely complex systems?",models,"models,models,models,models",3,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+A dilute solution is one that has a relatively small amount of what?,dissolved solute,"much,dissolved solute,very,many",1,2,False,"0.2361,0.2531,0.2658,0.2449",0.26580676,0.25309977
+Each bond includes a sharing of electrons between atoms. two electrons are shared in a single bond; four electrons are shared in a double bond; and six electrons are shared in this?,triple bond,"triple bond,two electrons,four electrons,three electrons",0,0,True,"0.2518,0.2493,0.2488,0.2501",0.25178242,0.25178242
+What is the process of breaking an individual into parts followed by regeneration called?,fragmentation,"mutation,fragmentation,splicing,mutation",1,2,False,"0.2613,0.2092,0.2681,0.2613",0.26812252,0.20917901
+The left atrium receives oxygen-rich blood from which organs?,lungs,"kidneys,lungs,ventricles,liver",1,3,False,"0.2412,0.2437,0.2561,0.2590",0.25903627,0.2437231
+"If the water vapor condenses in liquid droplets as clouds form, what is released in the atmosphere?",heat,"water,cold,heat,heat",3,0,False,"0.2674,0.2236,0.2545,0.2545",0.26736295,0.2545247
+An increase in the number of gas molecules in the same volume container causes what to increase?,pressure,"pressure,temperature,mass,volume",0,2,False,"0.2086,0.2513,0.2854,0.2546",0.2854439,0.20861071
+What do induction cooktops have under their surface?,electromagnets,"electromagnets,magnetize,magnet,magnetism",0,2,False,"0.2116,0.2629,0.2708,0.2547",0.2707992,0.21159352
+How many types of molecular orbitals can form from the overlap of two atomic s orbitals on adjacent atoms?,two,"two,three,four,two",0,0,True,"0.2534,0.2446,0.2486,0.2534",0.25339326,0.25339326
+"Salicylic acid is used in the synthesis of acetylsalicylic acid, or more commonly called?",aspirin,"vitamin C,vitamin,vitamin D,aspirin",3,2,False,"0.2681,0.2491,0.2821,0.2007",0.28208312,0.2007281
+"What is the term for groups of cells with a similar appearance and a common function, and describes how cells are organized?",tissue,"tissue,tissue,muscle,blood",0,0,True,"0.2791,0.2791,0.2050,0.2368",0.2790795,0.2790795
+What kind of weather do psychrophiles need to grow and reproduce?,cold temperatures,"high pressure,high temperatures,cold temperatures,high humidity",2,1,False,"0.2301,0.2840,0.2471,0.2388",0.28397405,0.24714376
+What creates new seafloor in the rift valleys?,seafloor spreading,"volcanic activity,volcanic formation,seafloor spreading,volcanic eruption",2,1,False,"0.2472,0.2742,0.2287,0.2499",0.274194,0.22869974
+The building blocks of proteins are called what?,amino acids,"nucleic acids,amino acids,amino acids,nucleotides",1,0,False,"0.2734,0.2307,0.2307,0.2651",0.2734248,0.23073262
+Type 1 diabetes and gigantism are examples of what type of disorder?,endocrine diseases,"hypothyroidism,hypoxia,endocrine diseases,hypotension",2,1,False,"0.2483,0.2736,0.2275,0.2506",0.27361625,0.22749308
+"In photosynthesis, what process involving carbon dioxide and oxygen occurs through small, regulated openings called stomata?",gas exchange,"oxygen,gas exchange,nitrogen,carbon dioxide",1,0,False,"0.3079,0.2476,0.2178,0.2268",0.30786082,0.24759693
+Which molecules are made of one carbon and four hydrogen atoms?,hydrocarbons,"hydrogen,nitrogen,oxygen,hydrocarbons",3,2,False,"0.2372,0.2624,0.2779,0.2225",0.2779272,0.22251604
+Atoms of different elements have different numbers of what?,protons,"nucleons,protons,electrons,neutrons",1,0,False,"0.2695,0.2306,0.2584,0.2415",0.2695214,0.23058994
+The lancelet lacks what feature that distinguishes vertebrates?,backbone,"brain',backbone,legs',eyes'",1,3,False,"0.2502,0.2385,0.2549,0.2563",0.25631672,0.23851842
+What is a reptiles skin covered in to protect them from drying out?,scales,"scales,horns,spines,scales",3,2,False,"0.2569,0.2211,0.2652,0.2569",0.26515844,0.2568671
+"In sexual reproduction, the fusion of haploid gametes forms a diploid cell called what?",zygote,"diploid,spore,zygote,protist'",2,1,False,"0.2019,0.2756,0.2606,0.2618",0.27562898,0.26062906
+Gabbro is a dark dense rock that can be found in what?,oceanic crust,"oceanic crust,sandstone,limestone,granite",0,2,False,"0.1950,0.2695,0.2697,0.2658",0.2697255,0.19503477
+What provides clear evidence of evolution?,fossils,"fossilized fossil,ossil,fossils,fossilized",2,2,True,"0.2255,0.2419,0.2906,0.2420",0.29060027,0.29060027
+About half of what type of radiation is absorbed in the first 15 meters of water?,solar,"solar,gamma,ultraviolet,neutron",0,3,False,"0.2409,0.2520,0.2482,0.2590",0.2589584,0.24086162
+What begins with a diploid cell and ends with four haploid cells?,meiosis,"meiosis II,meiosis III,meiosis,meiosis",3,0,False,"0.2527,0.2523,0.2475,0.2475",0.25268662,0.2475046
+"Two smaller isotopes, more neutrons, and heat energy are the products of what type of reaction?",fission,"neutron,neutron,fission,neutron",2,0,False,"0.2547,0.2547,0.2360,0.2547",0.2546614,0.2360158
+What percentage of the field is tilled in traditional plowing?,100%,"80%  30%,50%,100%,20%",2,2,True,"0.2484,0.2491,0.2552,0.2472",0.25522846,0.25522846
+Traits controlled by genes on the sex chromosomes are called what?,sex-linked traits,"sex,genes,raits,sex-linked traits",3,0,False,"0.2919,0.2559,0.2422,0.2100",0.29190058,0.20997603
+What structures are at the end of the long air passages in the lungs?,alveoli,"alveoli,bronchus,capillaries,trachea",0,3,False,"0.2355,0.2518,0.2328,0.2800",0.28001124,0.23547652
+What is a disease caused by the same virus that causes chicken pox?,shingles,"shingles,viral,bacterial,fungal",0,2,False,"0.1865,0.2591,0.2836,0.2707",0.28364804,0.18651314
+In a solution what is the substance a solute dissolves in is called?,solvent,"id,water,gas,solvent",3,2,False,"0.2098,0.2635,0.3044,0.2224",0.30438277,0.22235803
+What is it called when sound is reflected off an object?,echo,"reflection,reflection,echo,reflection",2,2,True,"0.2458,0.2458,0.2627,0.2458",0.26267123,0.26267123
+Acidic hydrogen atoms are those which will be transferred to what?,a base,"hydroxide,a base,hydrofluoride,hydrochloric acid",1,0,False,"0.2624,0.2436,0.2563,0.2376",0.2624214,0.24362408
+"In an ecosystem, what do you call organisms like lions that capture and kill other animals for food?",predators,"predators,rnivores,parasites,parasites",0,2,False,"0.2538,0.1969,0.2747,0.2747",0.27468225,0.25376216
+What type of diseases occur when the immune system attacks normal body cells?,autoimmune,"viral,bacterial,autoimmune,genetic",2,1,False,"0.2639,0.2798,0.1956,0.2607",0.2797691,0.19564795
+"Most modern seed plants are angiosperms, which produce seeds in the ovaries of what basic structure?",flowers,"fruits,seeds,vegetables,flowers",3,1,False,"0.2483,0.2618,0.2558,0.2341",0.26175457,0.23407164
+What is produced by the end of meiosis?,four haploid cells,"cells,proteins,four haploid cells,hormones",2,3,False,"0.2674,0.2426,0.1994,0.2905",0.29054415,0.19940151
+"In the u. s. , the majority of electricity is produced by burning coal or what else?",fossil fuels,"water,fossil fuels,oil,ydrogen",1,2,False,"0.2519,0.2243,0.3075,0.2163",0.30748165,0.22426474
+Farming practices leave some soil exposed and vulnerable to what natural process?,erosion,"erosion,evaporation,sedimentation,precipitation",0,3,False,"0.2209,0.2357,0.2344,0.3090",0.30899626,0.22088505
+Matter is made up of a mixture of things called what?,elements,"atoms,elements,electrons,protons",1,0,False,"0.2687,0.2431,0.2357,0.2524",0.26874536,0.24314001
+Water seeps into the ground through permeable material and stops when it reaches what?,impermeable rock,"rock,impermeable rock,water,air",1,3,False,"0.2535,0.2059,0.2424,0.2982",0.29823565,0.20589298
+"Vertebrate animals have two major body cavities, the dorsal and what is the other?",spinal cavity,"spinal cavity,ventral,ventricle,ventricle cavity",0,1,False,"0.2205,0.2823,0.2768,0.2204",0.2823245,0.22048844
+There are 20 different common amino acids needed to make what organic compound?,proteins,"nucleic acids,mino acids,proteins,carbohydrates",2,3,False,"0.2306,0.2568,0.2453,0.2673",0.26730216,0.24531074
+"Sponges exemplify what type of arrangement, where different cells are specialized for different functions, but each cell works alone?",cell-level organization,"cell-level organization,spores,spicules,spines",0,2,False,"0.2201,0.2373,0.2800,0.2626",0.28002742,0.22012764
+What type of chemical reactions release energy?,exothermic reactions,"endothermic reactions,exothermic reactions,exothermic reactions,spontaneous reactions",1,3,False,"0.2465,0.2441,0.2441,0.2654",0.26535684,0.24407682
+Some types of minerals form balls called what?,nodules,"nodules,copper,copper,iron",0,3,False,"0.1935,0.2615,0.2615,0.2835",0.28351545,0.19348672
+"According to the special theory of relativity, no physical object can equal or exceed the speed of what?",light,"water',air',light',light",3,2,False,"0.2107,0.2101,0.2943,0.2849",0.2943447,0.2848614
+What is another word for cellular drinking?,pinocytosis,"diffusion,osmosis,pinocytosis,embrane",2,1,False,"0.2504,0.3101,0.2030,0.2365",0.31011608,0.20300119
+What do you call water that flows out of the ground where an aquifer meets the surface?,spring,"septic,snowmelt,rainwater,spring",3,1,False,"0.2645,0.2931,0.2316,0.2108",0.29313028,0.2107753
+What do you call the basic units of the structure and function of living things?,cells,"viruses,bacteria,proteins,cells",3,0,False,"0.2868,0.2856,0.2030,0.2246",0.2867794,0.22459756
+What is the conversion of a solid to a gas called?,sublimation,"condensation,evaporation,sublimation,condensation",2,1,False,"0.2358,0.2899,0.2386,0.2358",0.28985536,0.23858991
+Which form of dialysis has a patient’s blood pass through a length of tubing that travels through an artificial kidney machine?,hemodialysis,"hemodialysis,hemostasis,hemostasis,hemodialysis",3,1,False,"0.2303,0.2697,0.2697,0.2303",0.26973128,0.23026872
+What are the only type of elements capable of changing into different elements?,radioactive elements,"helium,helium,radioactive elements,helium",2,0,False,"0.2561,0.2561,0.2318,0.2561",0.25606605,0.23180182
+What does the inside of all cells also contain?,cytosol,"mitochondria,cytosol,nucleus,embrane",1,0,False,"0.2660,0.2183,0.2650,0.2508",0.2659856,0.21829213
+"What anatomical structures insulate, protect and provide sensory input?",hair,"hair,nails,hair,skin",2,3,False,"0.2275,0.2551,0.2275,0.2899",0.28985128,0.22749953
+"Known for its beautiful rings, what is the second largest planet in the solar system?",saturn,"arth,mercury,saturn,jupiter",2,1,False,"0.2363,0.2704,0.2260,0.2673",0.27044323,0.22597063
+What kind of waves are used in radar guns?,microwaves,"ultraviolet,infrared,visible light,microwaves",3,2,False,"0.2519,0.2499,0.2912,0.2070",0.2911567,0.20699203
+On what lobe of the liver is the gallbladder near?,right lobe,"left lobe,left lobe,right lobe,left lobe",2,2,True,"0.2492,0.2492,0.2524,0.2492",0.25238767,0.25238767
+"What process is used for cell growth, repair of cuts and replacement of worn out cells?",cell division,"cell division,cell reproduction,cell growth,cell division",3,1,False,"0.2520,0.2829,0.2132,0.2520",0.28287598,0.25195783
+What do astronomers term the stretching of space that causes the distance between galaxies to increase?,expanding universe,"expanding universe,expanding universe,expanding universe,expanding universe",3,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+What are the two types of digestive systems invertebrates may have?,complete and incomplete,"large and small,large and small,complete and incomplete,complete and incomplete",3,0,False,"0.2585,0.2585,0.2415,0.2415",0.25852647,0.24147351
+What does the gradient of bicoid protein determine?,anterior-posterior axis,"anterior-posterior axis,anterior-posterior axis,anterior-posterior axis,anterior-posterior axis",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+What term is used to describe a cancer that has spread?,metastasized,"metastasis,metastable,metastasized,metastasized",3,1,False,"0.2630,0.2796,0.2287,0.2287",0.27963275,0.22869143
+"What is the most abundant of all vertebrate classes, and the most recent to evolve?",birds,"insects,mammals,reptiles,birds",3,2,False,"0.2512,0.2573,0.2625,0.2290",0.26252085,0.2290348
+How many calories of energy does one gram of protein provide?,4,"2,4,1,6",1,3,False,"0.2485,0.2511,0.2478,0.2526",0.25263268,0.25107098
+What is the cure of cancer known as?,remission,"mutation,infection,metastasis,remission",3,1,False,"0.2353,0.2911,0.2737,0.1999",0.29110393,0.19989726
+What is the outer layer of the exoskeleton called?,cuticle,"ticle,cuticle,cuticle,cuticle",1,0,False,"0.2660,0.2447,0.2447,0.2447",0.2660027,0.24466576
+In what stage of their life cycle do insects begin developing their wings?,pupa,"pupa,butterfly,caterpillar,larva",0,2,False,"0.2203,0.2558,0.2652,0.2587",0.26515907,0.22026373
+The speed of sound depends on what?,medium,"low,high,air,medium",3,1,False,"0.2641,0.2898,0.2315,0.2147",0.28975543,0.2146727
+Why is the life cycle of plants so complex?,alternation of generation,"seed,pollen,alternation of generation,spore",2,3,False,"0.2382,0.2486,0.2305,0.2827",0.28269774,0.23045163
+"While elements are represented by chemical symbols, chemical formulas represent what?",compounds,"compounds,elements,molecules,compounds",0,2,False,"0.2390,0.2445,0.2776,0.2390",0.27759856,0.23896496
+What is a form of cell division in prokaryotic organisms that produces identical offspring?,binary fission,"binary fission,binary fission,binary fission,binary fission",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+What system consists of organs that break down food and absorb nutrients such as glucose?,digestive system,"digestive system,rvous system,respiratory system,circulatory system",0,1,False,"0.2089,0.2850,0.2612,0.2450",0.2849546,0.20887527
+What is the transition from solid to vapor is called?,sublimation,"condensation,evaporation,condensation,sublimation",3,1,False,"0.2567,0.2625,0.2567,0.2241",0.26245543,0.22405286
+"In contrast with cnidarians, nematodes show a tubular morphology and circular cross-section. these animals are pseudocoelomates and show the presence of a complete digestive system with a distinct mouth and this?",anus,"anus,spirogyra,spirogyra,spicules",0,3,False,"0.2367,0.2253,0.2253,0.3127",0.3126642,0.23674086
+The amount of heat required to raise a single mass unit of a substance by a single temperature unit is known as what?,specific heat,"specific heat,low heat,high density,high heat",0,2,False,"0.2291,0.2555,0.2624,0.2529",0.26241925,0.22914882
+What is the most important source of electromagnetic radiation on earth?,the sun,"the sun,the moon,the sun,the earth",0,1,False,"0.2399,0.2636,0.2399,0.2566",0.26358092,0.2399299
+What kind of drugs are formulated to help deal with hiv and herpes as well as influenza and two types of hepatitis?,antiviral drugs,"antiviral drugs,antiviral drugs,antiviral drugs,antiviral drugs",3,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+"Trees, which can be planted and harvested, are an example of what type of resource?",renewable,"renewable,renewable,renewable,nonrenewable",0,0,True,"0.2537,0.2537,0.2537,0.2388",0.25374454,0.25374454
+"After a supernova, what part of a star remains?",core,"nucleus,core,core,neutron",2,1,False,"0.2195,0.2710,0.2710,0.2385",0.2709943,0.2709943
+What is essential for population of all species to expand greatly?,abundant resources,"abundant resources',abundant resources',abundant resources',abundant resources",3,3,True,"0.2441,0.2441,0.2441,0.2677",0.26771563,0.26771563
+What is usually the most visible part of the flower?,petals,"stem,sepals,leaf,petals",3,2,False,"0.2789,0.2037,0.2940,0.2234",0.2940083,0.22340414
+What do ionic bonds form between?,metals and nonmetals,"hydrogen and oxygen,hydrogen and oxygen,metals and nonmetals,carbon and nitrogen",2,3,False,"0.2525,0.2525,0.2073,0.2878",0.28778705,0.20725837
+The interaction between atomic orbitals is greatest when they have the same what?,energy,"same,energy,same,same",1,0,False,"0.2552,0.2344,0.2552,0.2552",0.25521293,0.23436117
+What occurs when competing species evolve different adaptations?,specialization,"specialization,adaptation,adaptation,adaptation",0,0,True,"0.2522,0.2493,0.2493,0.2493",0.25224403,0.25224403
+Haversian canals contain blood vessels and what else?,nerve fibers,"collagen fibers,muscle fibers,fibroblasts,nerve fibers",3,2,False,"0.2692,0.2286,0.2793,0.2228",0.27931127,0.22284812
+What type of telescopes collect and focus radio waves from distant objects?,radio telescopes,"telescope,telescope,radio telescopes,telescope",2,0,False,"0.2553,0.2553,0.2342,0.2553",0.2552731,0.2341807
+Cells have multiple repair mechanisms to fix mutations in what?,dna,"dna,DNA,RNA,protein",0,0,True,"0.2753,0.2753,0.2421,0.2072",0.2753429,0.2753429
+What are different versions of a gene known as?,alleles,"mutation,variation,alleles,variant",2,1,False,"0.2671,0.2986,0.1973,0.2371",0.29856035,0.1973024
+All chemical reactions involve both reactants and what else?,products,"catalysts,reactants,products,products",2,2,True,"0.2565,0.2292,0.2571,0.2571",0.2571214,0.2571214
+Potassium hydroxide in soap is an example of what?,base,"acid,base,acid,acid",1,0,False,"0.2588,0.2236,0.2588,0.2588",0.258792,0.22362396
+What is the process by which organisms give rise to offspring?,reproduction,"evolution,mutation,reproduction,mutation",2,1,False,"0.2474,0.2804,0.1917,0.2804",0.28043875,0.19168971
+Photosynthesis is an endothermic reaction that gets its energy from what?,light,"light,oxygen,nitrogen,carbon dioxide",0,3,False,"0.2862,0.2038,0.1881,0.3219",0.32192102,0.28623572
+Paramecium possess tiny hair-like cilia that help them do what?,move,"sleep,move,ove,eat",1,3,False,"0.2538,0.2068,0.2540,0.2854",0.28536028,0.20683618
+What is a complex machine that burns fuel to produce thermal energy and then uses the thermal energy to do work?,combustion engine,"engine,generator,combustion engine,fuel",2,1,False,"0.2721,0.3194,0.1936,0.2149",0.31941798,0.1936209
+"In both eukaryotes and prokaryotes, ribosomes are the non-membrane bound organelles where what main product of the cell is made?",proteins,"carbohydrates,hormones,nucleic acids,proteins",3,3,True,"0.2440,0.2570,0.2373,0.2617",0.26174825,0.26174825
+What is it called when ice changes to liquid water?,melting,"freezing',condensation',evaporation',melting",3,1,False,"0.2519,0.2648,0.2398,0.2435",0.2647937,0.2434566
+Biological features from a common evolutionary origin are known as what?,homologous,"homologous,heterochronic,heterochronic,heterochronic",0,1,False,"0.1838,0.2721,0.2721,0.2721",0.27207214,0.18378355
+Salts that are neither acidic nor basic do not affect what property of the solution when dissolved in water?,ph,"alkaline,acid,ph,neutral",2,3,False,"0.2516,0.2412,0.2456,0.2616",0.26162562,0.24559633
+What protects the pollen of seed plants and spores of seedless plants?,sporopollenin,"sporopollenin,spore,spore,spore",0,1,False,"0.1996,0.2668,0.2668,0.2668",0.26681018,0.19956946
+Cells that have a nucleus and other organelles which are membrane-bound are generally called what kinds of cells?,eukaryotic,"prokaryotic,mitochondria,chloroplasts,eukaryotic",3,2,False,"0.2307,0.2597,0.2814,0.2281",0.28144398,0.22814299
+What is first stage of cellular respiration?,glycolsis,"glycolysis,glycolsis,glycolysis,glycolysis",1,1,True,"0.2412,0.2764,0.2412,0.2412",0.27644935,0.27644935
+What are groups of stars called that are smaller than a galaxy?,star clusters,"nebula,star clusters,alaxy,star clusters",3,0,False,"0.2909,0.2337,0.2417,0.2337",0.29088098,0.23372038
+"Expansion of a gas into a vacuum is irreversible because the external pressure is measurably less than the internal pressure of the gas, and no states of what exist?",equilibrium,"equilibrium,equilibrium,equilibrium,equilibrium",0,0,True,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+"One important phenomenon related to the relative strength of cohesive and adhesive forces is capillary action—the tendency of a fluid to be raised or suppressed in a narrow tube, or called this?",capillary tube,"vertical tube,capillary tube,orizontal tube,horizontal tube",1,0,False,"0.2606,0.2241,0.2571,0.2582",0.26062244,0.22410722
+What happens to air density and pressure when gas molecules are warm?,they are lower,"high density,low pressure,high pressure,they are lower",3,1,False,"0.2475,0.2594,0.2584,0.2347",0.2593821,0.23472244
+What kind of reproduction generates most of the genetic variation that makes evolutionary adaptation possible?,sexual reproduction,"reproductive selection',reproductive mutation',reproductive reproduction',sexual reproduction",3,0,False,"0.2582,0.2553,0.2404,0.2461",0.25820035,0.24608262
+"Can nematodes be a parasite of plants, animals, or both?",both,"nematodes,viruses,both,bacteria",2,3,False,"0.2051,0.2776,0.2141,0.3032",0.30318666,0.21405187
+What kind of weather can you expect if a center of low pressure is moving your way?,stormy,"sunny,stormy,cold,windy",1,1,True,"0.2549,0.2716,0.2394,0.2341",0.27160093,0.27160093
+What is a thin membrane stretched tight across the end of the ear canal that vibrates when sound waves strike it?,eardrum,"earlobe,earlobe,earlobe,eardrum",3,0,False,"0.2708,0.2708,0.2708,0.1875",0.27083474,0.18749583
+Icy objects that have very elliptical orbits around the sun are called?,comets,"meteor,meteorite,comets,asteroid",2,3,False,"0.2514,0.2426,0.2374,0.2687",0.26868194,0.23735425
+What geologic era is also known as the age of mammals?,cenozoic era,"Permian,cenozoic era,Jurassic,Carboniferous",1,2,False,"0.2654,0.1810,0.2906,0.2630",0.29062048,0.18095458
+"Radioactive atoms, nuclear explosions, and stars produce what types of rays.",gamma,"neutron,alpha,beta,gamma",3,0,False,"0.2887,0.2350,0.2360,0.2403",0.28871372,0.24032064
+The similarities and differences between the genomes confirm patterns of what?,evolution,"evolution,evolution,evolution,evolution",2,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+What are the two components of all solutions?,solute and solvent,"solute and solvent,acid and acid and salt,acid and salt,cid and base",0,2,False,"0.2090,0.2745,0.2774,0.2391",0.27741507,0.2089662
+On how many of the continents do birds live and breed?,seven,"Asia,Europe,Africa,seven",3,0,False,"0.2829,0.2124,0.2713,0.2334",0.28290623,0.23344618
+The hydrogen is oxidized because it undergoes a partial loss of what?,electrons,"electrons,electrons,electrons,electrons",2,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+"What is land with permafrost, no trees, and small hardy plants?",tundra,"ocean,desert,mountain,tundra",3,2,False,"0.2434,0.2783,0.2834,0.1949",0.28339773,0.19489208
+Viruses replicate only in where?,host cells,"host cells,cells,bacteria,viruses",0,2,False,"0.2235,0.2630,0.2857,0.2279",0.28566763,0.22349468
+Matter undergoing chemical reactions and physical changes can release or absorb heat. a change that releases heat is called what?,exothermic process,"radioactive decay,spontaneous process,exothermic process,radioactive process",2,0,False,"0.2840,0.2614,0.1906,0.2640",0.28404558,0.19057356
+What hormone secreted by the pineal gland controls sleep-wake cycles and several other processes?,melatonin,"vitamin D,vitamin B12,eta-carotene,melatonin",3,0,False,"0.2909,0.2774,0.2369,0.1947",0.2909285,0.19471623
+What is defined as the ability to do work?,energy,"energy,protein',fat',carbon'",0,3,False,"0.2377,0.2551,0.2350,0.2723",0.27228716,0.2377104
+What two types of tissue compose most of the non-pregnant and non-lactating female breast?,adipose and collagenous,"fibrous,fatty and fibrous,fatty,adipose and collagenous",3,1,False,"0.2543,0.2924,0.2489,0.2044",0.2924337,0.20443267
+"Control of the body can be somatic or autonomic, offering one way to divide what organ system by function?",nervous system,"nervous system,endocrine system,digestive system,nervous system",0,1,False,"0.2474,0.2625,0.2428,0.2474",0.2624669,0.2473586
+What is the female reproductive structure of a flower?,the pistil,"ovary is the ovary,ovule,vary,the pistil",3,1,False,"0.2288,0.3057,0.2398,0.2256",0.30574602,0.2256227
+Cysteine is a type of what fundamental building block of protein?,amino acid,"nitrogen,hydrochloric acid,amino acid,calcium",2,1,False,"0.2196,0.2782,0.2242,0.2780",0.27822438,0.22420749
+"The leaves of what plant genus are the source of the compound ephedrine, which is used in medicine as a potent decongestant and is similar to amphetamines?",ephedra,"orchid,conifer,ephedra,fern",2,1,False,"0.2537,0.2880,0.1995,0.2587",0.28801265,0.19954719
+The simplest organic compounds are known as what?,hydrocarbons,"hydrocarbons,hydrochloric acid,hydrofluoride acid,hydrocarbons",0,2,False,"0.2239,0.2693,0.2828,0.2239",0.28281376,0.22394459
+"Who developed a classification system that divided living things into several groups that we still use today, including mammals, insects, and reptiles?",aristotle,"the ancient Egyptians,the ancient Romans,aristotle,the ancient Greeks",2,1,False,"0.2678,0.2699,0.2113,0.2511",0.26989445,0.21127449
+"All biochemical molecules have oxygen, carbon, and what other element?",hydrogen,"sulfur,hydrogen,iron,nitrogen",1,1,True,"0.2415,0.2570,0.2563,0.2451",0.25702563,0.25702563
+What is a structure that is composed of one or more types of tissues?,organ,"skin,organ,bone,muscle",1,3,False,"0.2693,0.2112,0.2467,0.2728",0.27276063,0.21118982
+"If the buoyant force is greater than the force of gravity acting on a ship, what will happen to the ship?",it will float,"sink,float,float again,it will float",3,3,True,"0.2373,0.2410,0.2562,0.2655",0.2655447,0.2655447
+What are different types of tissues organized into functional units called?,organs,"organs,muscle,bone,skin",0,2,False,"0.2430,0.2401,0.2604,0.2565",0.26042643,0.24295905
+"Practitioners of what thought all matter was composed of different proportions of four basic elements, and that if you changed the proportions of these elements, you could change the substance itself?",alchemy,"alchemy,quantum,evolution,genetics",0,1,False,"0.2282,0.2654,0.2487,0.2577",0.2653968,0.22816904
+What are atoms of the same element that differ in their numbers of neutrons called?,isotopes,"isomers,isotopes,isomers,isomers",1,1,True,"0.2372,0.2885,0.2372,0.2372",0.2885345,0.2885345
+What is added to a measured portion of a more concentrated stock solution to achieve a particular concentration?,solvent,"solvent,acid,acid,acid",0,0,True,"0.2552,0.2483,0.2483,0.2483",0.2551703,0.2551703
+What do humans and bats have physically in common?,body hair,"hair,body hair,lungs,skin",1,0,False,"0.3051,0.2338,0.2476,0.2135",0.30509275,0.23382196
+"Because optics fibers are thin, entering light may strike the inside surface at greater than the critical angle, requiring attention to what?",refractive index,"refractive index,refractive index,refractive index,refractive power",1,3,False,"0.2468,0.2468,0.2468,0.2597",0.25967535,0.24677487
+What is a vector quantity with the same direction as the force called?,impulse,"impulse,pressure,momentum,velocity",0,1,False,"0.2159,0.3092,0.2350,0.2398",0.30924034,0.21592478
+"Club mosses, horsetails, ferns, and whisk ferns are examples of what type of plants?",seedless vascular plants,"horsetails,ferns,mosses,seedless vascular plants",3,1,False,"0.2286,0.2995,0.2402,0.2317",0.2994852,0.23168373
+What do seeds have that spores do not?,a supply of stored food,"a supply of stored food,a supply of stored air',a supply of stored food,a supply of stored water",2,0,False,"0.2560,0.2453,0.2560,0.2428",0.25595123,0.25595123
+A vector is an organism that carries what disease-causing microorganisms from one person or animal to another?,pathogen,"virus,pathogen,bacteria,parasite",1,2,False,"0.2332,0.2471,0.2704,0.2494",0.27037725,0.24707298
+"When explosion of gases creates pressure resulting in motion of a rocket, the force pushing the rocket is called what?",thrust,"thrust,thrust,friction,gravity",1,2,False,"0.2086,0.2086,0.3045,0.2783",0.30451307,0.20857151
+What once most common bird in north america became extinct in the 1800s?,the passenger piegon,"the passenger piegon,monarch,hummingbird,peregrine",0,2,False,"0.2224,0.2439,0.2680,0.2657",0.26796958,0.22240046
+What is the process called where nitrogen is repeatedly recycled through the biosphere?,nitrogen cycle,"nitrogen cycle,nitrogen cycle,nitrogen cycle,nitrogen cycle",2,0,False,"0.2500,0.2500,0.2500,0.2500",0.25,0.25
+What does pepsin help break down into amino acids?,proteins,"proteins,carbohydrates,amino acids,proteins",3,0,False,"0.2694,0.2413,0.2199,0.2694",0.26941285,0.26941285
+What are the most successful phylum of plants?,angiosperms,"conifers,mosses,angiosperms,erns",2,0,False,"0.2771,0.2635,0.2137,0.2457",0.27706948,0.21371353
+The muscular layer is much thicker in which ventricle of the heart?,left,"ventricle,left,ventricle,ventricle",1,0,False,"0.2502,0.2493,0.2502,0.2502",0.25023744,0.24928777
+"In many places, small hills rise above the ocean floor. these hills are undersea volcanoes, called what?",seamounts,"seamounts,oceanic,volcanic,mountain",0,3,False,"0.1957,0.2655,0.2440,0.2948",0.29479137,0.19571236
+"Ants, termites, bees, and wasps live in what type of social structure that may include millions of individual insects?",colony,"colony,group,individual,family",0,0,True,"0.2788,0.2345,0.2478,0.2389",0.2788369,0.2788369
+"Schrödinger’s approach uses three quantum numbers (n, l, and ml) to specify any of what type of function, associated with a particular energy?",wave function,"spin wave function,spin function,wave function,wave function",3,1,False,"0.2457,0.2590,0.2476,0.2476",0.25904417,0.24764487
+"What is the term for the ability of an atom to emit, or give off, charged particles and energy from its nucleus?",radioactivity,"electron,proton,neutron,radioactivity",3,0,False,"0.3194,0.2331,0.2409,0.2066",0.31938204,0.20663491
+What type of fluid cushions the fetus and helps protect it from injury?,amniotic,"amniotic,blood,amniotic,fluid",0,1,False,"0.2076,0.3286,0.2076,0.2561",0.3286459,0.20764898
+How can you prevent diseases such as whooping cough and flu?,preventive vaccinations,"get the flu,preventive vaccinations,get the flu,get the flu",1,0,False,"0.2516,0.2451,0.2516,0.2516",0.25164726,0.24505822
+Why do snakes have venomous bites?,to kill prey,"to kill prey,kill prey,kill prey,kill prey",0,1,False,"0.2330,0.2557,0.2557,0.2557",0.2556557,0.23303288
+Chelicerae in spiders are often modified into fangs that perform what function?,inject venom,"venom,blood,inject venom,oxygen",2,3,False,"0.2246,0.2794,0.2009,0.2951",0.29507747,0.20087816
+What results from uncontrolled cell division?,cancers,"cancers,cancer,cancerous,cancerous",0,1,False,"0.2384,0.2719,0.2449,0.2449",0.27188805,0.23840706
+Where do angiosperms form seeds?,ovaries,"seeds,seeds,ovaries,seeds",2,0,False,"0.2700,0.2700,0.1900,0.2700",0.2700014,0.18999575
+What term is used to describe the development of new technology?,technological design,"technological design,design,design,design",0,1,False,"0.1924,0.2692,0.2692,0.2692",0.2692025,0.19239253
+"All of the populations that live in the same area make up what type of group, which includes populations of different organisms?",community,"ecosystem,habitat,species,community",3,0,False,"0.2835,0.2093,0.2385,0.2687",0.28354597,0.26868436
+What model describing atomic structure is often referred to as a planetary model?,bohr model,"electron model,electron model,bohr model,quantum model",2,3,False,"0.2465,0.2465,0.2220,0.2849",0.28493807,0.22199938
+The medium moves back and forth in the same direction as the wave in what type of wave?,longitudinal wave,"horizontal wave,transverse wave,longitudinal wave,longitudinal wave",2,0,False,"0.2828,0.2400,0.2386,0.2386",0.282811,0.23860364
+A ramp is a type of simple machine called what?,inclined plane,"horizontal plane,vertical plane,inclined plane,horizontal plane",2,0,False,"0.2527,0.2519,0.2428,0.2527",0.25268617,0.24275315
+Where do plants take in air?,their leaves,"their roots,their flowers' 'their roots,their leaves,their stems",2,2,True,"0.2504,0.2407,0.2604,0.2485",0.2603872,0.2603872
+"Under the right conditions, what energy source can be used to eject electrons from a solid material?",light,"helium,light,nitrogen,oxygen",1,3,False,"0.2572,0.2384,0.2379,0.2664",0.2664216,0.23842667
+The type of bond that forms between molecules is called what?,hydrogen bond,"ydrogen bond,hydrogen bond,hydrogen bond,hydrogen bond",2,0,False,"0.2896,0.2368,0.2368,0.2368",0.2896068,0.23679774
+"Radiation, chemicals, and infectious agents are examples of what?",mutagens,"infectious agents,mutagens,chemicals,radiation",1,2,False,"0.2394,0.2361,0.2761,0.2485",0.27612364,0.23606841
+What is the name for a tool commonly used by molecular biologists to place genetic material into cells?,a viral vector,"viral vector,viral vector,a viral vector,viral vector",2,0,False,"0.2517,0.2517,0.2450,0.2517",0.25167176,0.24498478
+What is the study of how forces affect the motion of objects?,dynamics,"momentum,dynamics,friction,gravity",1,2,False,"0.2312,0.2277,0.2766,0.2645",0.27655184,0.22770001
+Compounds containing which element are the basis of all known life?,carbon,"carbon,xygen,nitrogen,sulfur",0,3,False,"0.2346,0.2300,0.2589,0.2766",0.27661926,0.2345571
+What type of rocks form when an existing rock is changed by heat or pressure?,metamorphic,"granite,granite,metamorphic,granite",2,0,False,"0.2740,0.2740,0.1779,0.2740",0.27404273,0.17787184
+What does jupiter reflect a lot of due to its size?,sunlight,"oxygen,sunlight,helium,carbon",1,1,True,"0.2479,0.2954,0.2108,0.2459",0.29543892,0.29543892
