@@ -8,5 +8,3 @@ module purge
 module load Python/3.11.3-GCCcore-12.3.0
 
 pip install -r requirements.txt
-
-python3 train.py
