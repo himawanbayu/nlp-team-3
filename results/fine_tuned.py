@@ -5,6 +5,8 @@ from transformers import AutoTokenizer, AutoModelForMultipleChoice, AutoConfig
 from collections import Counter
 import numpy as np
 import matplotlib.pyplot as plt
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 # model_name = "bert-base-uncased"
 # checkpoint_path = "../fine-tuning/best_bert_sciq_model.pt"
@@ -105,7 +107,7 @@ for _, row in df.iterrows():
             "distractor2": distractors[1],
             "distractor3": distractors[2],
             "accuracy": accuracy,
-            "difficulty": difficulty,
+            "confidence": difficulty,
             "distractor_effectiveness": effect,
             "raw_preds": preds
         })
