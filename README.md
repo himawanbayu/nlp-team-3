@@ -51,7 +51,7 @@ We also provide checkpoint files for BERT models fine-tuned on the SciQ training
     <td><a href="https://drive.google.com/file/d/1KAoESi2w8-N7NVhCu6Nt8fHojeiz6r6i/view?usp=sharing">checkpoint</a></td>
   </tr>
   <tr>
-    <td>Distilber-base</td>
+    <td>Distilbert-base</td>
     <td>65.4%</td>
     <td><a href="https://drive.google.com/file/d/1Pc6pXSYMz2lqImr5zfJ8sjYKK1u6V5LQ/view?usp=sharing">checkpoint</a></td>
   </tr>
