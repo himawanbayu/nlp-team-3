@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --partition=digitallab
+#SBATCH --partition=gpu
 #SBATCH --nodes=1
 #SBATCH --gpus-per-node=1
 #SBATCH --mem=18GB
